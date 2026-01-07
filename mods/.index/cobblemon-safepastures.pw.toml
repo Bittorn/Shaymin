@@ -1,0 +1,17 @@
+filename = 'SafePastures-1.1.0+1.21.1.jar'
+name = 'Cobblemon: SafePastures'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0+1.21.1'
+
+[download]
+hash = '06b831b64bdad2abc2b535230df37b00d61cd3245c227dca6f6b7ac7172572f531f750f6430b9672fe379ec0d4f39bfdbe0e9e792d4de80036d35a211dff908c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qpe01spE/versions/ksQrqbFQ/SafePastures-1.1.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'qpe01spE'
+version = 'ksQrqbFQ'

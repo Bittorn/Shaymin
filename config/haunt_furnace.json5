@@ -1,0 +1,14 @@
+{
+	hauntQuiet: false,
+	hauntVanillaFuels: true,
+	hauntCustomFuels: true,
+	hauntEnergyUsage: 10,
+	hauntEnergyCapacity: 1024,
+	hauntEnergyMaxInsert: 32,
+	enderQuiet: false,
+	enderVanillaFuels: true,
+	enderCustomFuels: true,
+	enderEnergyUsage: 10,
+	enderEnergyCapacity: 1024,
+	enderEnergyMaxInsert: 32
+}

@@ -1,0 +1,17 @@
+filename = "Tomtaru's Cobblemon & Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar"
+name = "Tomtaru's Cobblemon and Farmer's Delight Tweaks"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'R.1.3'
+
+[download]
+hash = '9f6170f0ce5a4384aa472b936a5a972de85aa98e421095ed0840427d0063ec91f4f30cc8fed6599b73afe8a1590502e1fcbaa5d3c21cb3b396347f8660fa3549'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LSnXhPa7/versions/YgbrJw78/Tomtaru%27s Cobblemon %26 Farmer%27s Delight Tweaks - 1.21.1 - R.1.3.jar'
+
+[update.modrinth]
+mod-id = 'LSnXhPa7'
+version = 'YgbrJw78'

@@ -1,0 +1,17 @@
+filename = 'ProjectRed-1.21.1-4.22.0-alpha+11-transmission.jar'
+name = 'Project Red Transmission'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '4.22.0-alpha+11'
+
+[download]
+hash = 'e62ddcab3f22bbf140aa9f76c433a837d642aa8ae60f0d2edd86d4e38b17ac3b6d143ea6949dd7d9ed5379ef6bbe1c097b804a780ea980c28e2159c3c79164ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dXmH4rEw/versions/fOEoAGiA/ProjectRed-1.21.1-4.22.0-alpha%2B11-transmission.jar'
+
+[update.modrinth]
+mod-id = 'dXmH4rEw'
+version = 'fOEoAGiA'

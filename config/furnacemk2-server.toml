@@ -1,0 +1,36 @@
+#FurnaceMk2 settings
+[furnacemk2]
+
+	#Furnace settings
+	[furnacemk2.furnace]
+		#Base efficiency multiplier for the FurnaceMk2
+		# Default: 1.25
+		# Range: 0.5 ~ 10.0
+		furnaceBaseEfficiency = 1.25
+		#Base experience multiplier for the FurnaceMk2
+		# Default: 1.25
+		# Range: 0.5 ~ 10.0
+		furnaceBaseExperience = 1.25
+		#Base speed multiplier for the FurnaceMk2
+		# Default: 2.0
+		# Range: 0.0 ~ 10.0
+		furnaceBaseSpeed = 2.0
+		#Upgraded efficiency multiplier for the FurnaceMk2
+		# Default: 1.5
+		# Range: 0.5 ~ 10.0
+		furnaceUpgradedEfficiency = 1.5
+		#Upgraded experience multiplier for the FurnaceMk2
+		# Default: 2.0
+		# Range: 0.5 ~ 10.0
+		furnaceUpgradedExperience = 2.0
+		#Upgraded speed multiplier for the FurnaceMk2
+		# Default: 2.0
+		# Range: 0.5 ~ 10.0
+		furnaceUpgradedSpeed = 2.0
+
+	#Attuned Crystal settings
+	[furnacemk2.crystal]
+		#Storage capacity for the Attuned Crystal
+		# Default: 10000
+		# Range: 100 ~ 1000000
+		crystalXPStorage = 10000

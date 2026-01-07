@@ -1,0 +1,17 @@
+filename = 'balm-neoforge-1.21.1-21.0.52.jar'
+name = 'Balm'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.0.52+neoforge-1.21.1'
+
+[download]
+hash = '0fd6621235dd5c7b436329744edfa99f65ea40a5f5c201ca93a8b61713ea8e84f3514dde3fa7b797f850db15963380235dbdd16e282f919eb982bfdf943124d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/qMe583RA/balm-neoforge-1.21.1-21.0.52.jar'
+
+[update.modrinth]
+mod-id = 'MBAkmtvl'
+version = 'qMe583RA'

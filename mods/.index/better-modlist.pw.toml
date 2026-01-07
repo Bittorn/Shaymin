@@ -1,0 +1,17 @@
+filename = 'better_modlist-1.1.20.jar'
+name = 'Better ModList'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.20'
+
+[download]
+hash = '6473fe5d124f7126697bdc4390b53ef6d9a9932aca9af7085ba432013b13fd455ab683bfe66b7d6bdd81cc6f71f0967c20dbd879cad55f7a46b9632b03b345b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sbpqhzIG/versions/ZoMlh59X/better_modlist-1.1.20.jar'
+
+[update.modrinth]
+mod-id = 'sbpqhzIG'
+version = 'ZoMlh59X'

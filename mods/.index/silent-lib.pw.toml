@@ -1,0 +1,17 @@
+filename = 'silent-lib-1.21.1-neoforge-10.5.1.jar'
+name = 'Silent Lib'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '10.5.1'
+
+[download]
+hash = 'c6e2f244940eeef1e251f3bb2e8ce68f749d324848f9b4bf37454a5f5b64d3ea046ccd7b7dc53f781e0b567e9f7149afc4cc6502c3e7bb7cc8513e3cfac24c67'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BQhuHQo4/versions/djmtrwla/silent-lib-1.21.1-neoforge-10.5.1.jar'
+
+[update.modrinth]
+mod-id = 'BQhuHQo4'
+version = 'djmtrwla'

@@ -1,0 +1,17 @@
+filename = 'CBMultipart-1.21.1-3.5.0.151.jar'
+name = 'CB Multipart'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.5.0.151'
+
+[download]
+hash = '39fd54180b27b9667e970b4852c87ddf02a89b0cc547147db6d254f14b54f0648e6f325dee4bba431aecc5943486299fae5fc16ca78309daac8a26198bddc77b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LmvnWWSV/versions/igIW0qtz/CBMultipart-1.21.1-3.5.0.151.jar'
+
+[update.modrinth]
+mod-id = 'LmvnWWSV'
+version = 'igIW0qtz'

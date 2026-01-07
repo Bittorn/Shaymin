@@ -1,0 +1,17 @@
+filename = 'hauntfurnace-neoforge-0.5.8-1.21.1.jar'
+name = 'Haunt Furnace'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.8-1.21.1'
+
+[download]
+hash = '579154a668748acb7b568d2e7237c5ca7bec194ed86aa058c7afcf3961cc585170b00d9cf01bf2e256d139958813f30a75b686acfff4dafa9e82759ebecf9a42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G05u0Ety/versions/HSGOm8Ta/hauntfurnace-neoforge-0.5.8-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'G05u0Ety'
+version = 'HSGOm8Ta'

@@ -1,0 +1,17 @@
+filename = 'SimpleTMs-neoforge-2.1.2.jar'
+name = 'SimpleTMs: TMs and TRs for Cobblemon'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1.2'
+
+[download]
+hash = '902156fd009d808d11e1b9a2e73fa8891440a17e0b305fdcfdc988ec96c270b82cc79a54b13c2ccf2df8dd43f96e020389668a68b4c324cd5ce1e72b5f2b1ce9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yFqR0DNc/versions/SiplD8Nd/SimpleTMs-neoforge-2.1.2.jar'
+
+[update.modrinth]
+mod-id = 'yFqR0DNc'
+version = 'SiplD8Nd'

@@ -1,0 +1,17 @@
+filename = 'cobbled-armour-trims-2.0.jar'
+name = 'Cobbled Armor Trims - Cobblemon'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0+mod'
+
+[download]
+hash = 'e5d3259f951540e5e7f7b94ff26e7c9905b60b83ea7e55a38e9758d70a00969664470bf3b012a7df467303c0f42e9bb5333062737a58df7979b55d5652772480'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ui0aohNY/versions/qfImldQl/cobbled-armour-trims-2.0.jar'
+
+[update.modrinth]
+mod-id = 'Ui0aohNY'
+version = 'qfImldQl'
