@@ -19,7 +19,7 @@ services:
       TZ: Australia/Melbourne
       STOP_SERVER_ANNOUNCE_DELAY: 30
       ENABLE_RCON: true
-      SERVER_PORT: 8119
+      SERVER_PORT: 25565
       RCON_PASSWORD: ballin4milk
       BROADCAST_RCON_TO_OPS: true
       DIFFICULTY: normal
