@@ -82,8 +82,8 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 ## Global Packs
 
 - [AllTheMons x Mega Showdown](https://modrinth.com/project/odZZdRCE) [v3.5.0] by *\*whistles\* a lot of people* (Data Pack, Resource Pack)
-    > [!WARNING]
-    > Must make sure that any addons added do not conflict/overlap with this pack
+> [!WARNING]
+> Must make sure that any addons added do not conflict/overlap with this pack
 
 - [Cobblemon Triple Bakalutions](https://modrinth.com/project/mv8ODnvK) [1.1.1] by EefHere, Strawberr1Milkshake, regional_minty, Tortu (Data Pack, Resource Pack)
 
@@ -121,36 +121,35 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Mods
 
-- ### [Catch Indicator [Cobblemon Addon]](https://modrinth.com/project/tpTcu2PM)
-- ### [Controlling](https://modrinth.com/project/xv94TkTM)
-- ### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
-- ### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
-- ### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
-- ### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
-- ### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - *low priority*
-- ### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
-- ### [Default Options](https://modrinth.com/project/WEg59z5b)
-- ### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - *low priority*
-- ### [EMI](https://modrinth.com/project/fRiHVvU7) **OR** [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
-    > [!NOTE]
-    > While they are both very similar mods, which one works better with Cobblemon will be the deciding factor.
-- ### [FancyMenu](https://modrinth.com/project/Wq5SjeWM) - *low priority*, check [incompatibility list](https://docs.fancymenu.net/docs/incompatibility-list)
-- ### [Handcrafted](https://modrinth.com/project/pJmCFF0p)
-- ### [MissingMons [cobblemon]](https://modrinth.com/project/jbbBrQVa) - check compatibility
-- ### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
-- ### [Navas ZA Megas](https://modrinth.com/project/2V1Y86sc) - check compatibility
-- ### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ) - port to NeoForge or Sinytra Connector
-- ### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
-- ### [TarotCards: Remastered](https://www.curseforge.com/projects/1473837) - does not fit thematically
-- ### [TDmon](https://modrinth.com/project/b8PVSzJC) - might be out-of-date
+- #### [Catch Indicator [Cobblemon Addon]](https://modrinth.com/project/tpTcu2PM)
+- #### [Controlling](https://modrinth.com/project/xv94TkTM)
+- #### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
+- #### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
+- #### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
+- #### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
+- #### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - *low priority*
+- #### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
+- #### [Default Options](https://modrinth.com/project/WEg59z5b)
+- #### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - *low priority*
+- #### [EMI](https://modrinth.com/project/fRiHVvU7) *or* [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
+> [!NOTE]
+> While they are both very similar mods, which one works better with Cobblemon will be the deciding factor.
+- #### [FancyMenu](https://modrinth.com/project/Wq5SjeWM) - *low priority*, check [incompatibility list](https://docs.fancymenu.net/docs/incompatibility-list)
+- #### [Handcrafted](https://modrinth.com/project/pJmCFF0p)
+- #### [MissingMons [cobblemon]](https://modrinth.com/project/jbbBrQVa) - check compatibility
+- #### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
+- #### [Navas ZA Megas](https://modrinth.com/project/2V1Y86sc) - check compatibility
+- #### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ) - port to NeoForge or Sinytra Connector
+- #### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
+- #### [TarotCards: Remastered](https://www.curseforge.com/projects/1473837) - does not fit thematically
+- #### [TDmon](https://modrinth.com/project/b8PVSzJC) - might be out-of-date
 
 ### Datapacks
 
 - #### [AllTheMons x Mega Showdown - Radiants](https://modrinth.com/project/fjpDZGVW)
-    > [!IMPORTANT]
-    > Needs discussion before adding, due to radiants not being in any original games
-
     This pack is an addon for AllTheMons x Mega Showdown that adds new radiant Pokémon that are 5x rarer than regular shinies! While some of these new colorations will have a few references in them, others will just be new colors and with regular updates the entire Pokédex could eventually be radiant!
+> [!IMPORTANT]
+> Needs discussion before adding, due to radiants not being in any original games
 
 - #### [Better Caps! [Cobblemon]](https://modrinth.com/project/mbndKTrW)
     What is Better Caps & why does it exist?
@@ -164,31 +163,26 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
     Adds a few Animations to Cobblemon Models that lack them. Attack Animations are still in progress but a number of Pokemon have animated attacks. All models in the pack have an Idle or Walking animation with some having attack animations and special in battle animations.
 
 - #### [GlitchDex - Cobblemon](https://modrinth.com/project/Gdq5F7ud)
-    > [!IMPORTANT]
-    > Might need reworking, last update is 2 years old
-
     This Cobblemon Resource Pack adds some Pokemon that can't be obtained into Cobblemon!
+> [!IMPORTANT]
+> Might need reworking, last update is 2 years old
 
 - #### [Lost Lore [Cobblemon]](https://modrinth.com/project/49cNEVjn)
-    > [!IMPORTANT]
-    > Needs discussion before adding, due to the non-canon nature
-
     In over 30 years of Pokémon as a franchise, they released many forms of media outside of the mainline games which includes many cool and unique forms and variants of beloved Pokémon - so why stop with forms from the mainline games? This addon aims to add many of them from various sources like the anime, movies, manga or side/spin-off games that are not considered *canon*.
+> [!IMPORTANT]
+> Needs discussion before adding, due to the non-canon nature
 
 - #### [MelloMons](https://modrinth.com/project/HFE7B8bM)
-    > [!IMPORTANT]
-    > Might need reworking, last update is 1 year old
-
     Currently this pack only adds in a remodel with a few animations for Mew. I do intend to add some cosmetic variants for mew later, but when that will be is undetermined.
+> [!IMPORTANT]
+> Might need reworking, last update is 1 year old
 
 - #### [MysticMons](https://modrinth.com/project/TiFXQSAQ)
-    > [!IMPORTANT]
-    > Might need reworking, last update is 1 year old
-
     This pack includes models and animations for Pokemon currently not available in the base mod. Also enables Legendaries to spawn in the wild
+> [!IMPORTANT]
+> Might need reworking, last update is 1 year old
 
 - #### [SpaceworldMons [Cobblemon]](https://modrinth.com/project/yJEn7EQ4)
-    > [!IMPORTANT]
-    > Needs discussion before adding, due to the potention non-canon nature
-
     SpaceworldMons adds over 70 Beta Pokémon from *an era long gone* to your Cobblemon world!
+> [!IMPORTANT]
+> Needs discussion before adding, due to the potential non-canon nature
