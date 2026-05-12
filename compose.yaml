@@ -1,0 +1,46 @@
+services:
+  shaymin-local:
+    image: itzg/minecraft-server:java21-graalvm
+    container_name: shaymin-local
+    tty: true
+    stdin_open: true
+    ports:
+      - 8119:25565
+      - 8119:25565/udp
+    environment:
+      EULA: "TRUE"
+      TYPE: CUSTOM
+      CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
+      VERSION: 1.21.1
+      # NEOFORGE_VERSION: 21.1.228
+      INIT_MEMORY: 4G
+      MAX_MEMORY: 12G
+      USE_MEOWICE_FLAGS: true
+      TZ: Australia/Melbourne
+      STOP_SERVER_ANNOUNCE_DELAY: 30
+      ENABLE_RCON: true
+      SERVER_PORT: 8119
+      RCON_PASSWORD: ballin4milk
+      BROADCAST_RCON_TO_OPS: true
+      DIFFICULTY: normal
+      MODE: survival
+      MOTD: |
+        §3Shaymin Cobblemon §d[2.0-alpha]§r
+        §kpog§6 who cares lmao §7§kpog
+      BROADCAST_CONSOLE_TO_OPS: false
+      MAX_PLAYERS: 20
+      MAX_WORLD_SIZE: 5000
+      SIMULATION_DISTANCE: 6
+      VIEW_DISTANCE: 8
+      SPAWN_PROTECTION: 0
+      CUSTOM_SERVER_PROPERTIES: |
+        mob-griefing=false
+        tnt-explosions=false
+    deploy:
+      resources:
+        limits:
+          cpus: 4
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
+networks: {}
