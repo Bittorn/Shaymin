@@ -1,2 +1,8 @@
-mods/Cobblemon-neoforge-*
+/client/global_packs/optional_data
+/client/global_packs/required_data
+/client/global_packs/required_resources
+/server/global_packs/optional_data
+/server/global_packs/required_data
+/server/global_packs/required_resources
 .DS_Store
+*.jar
