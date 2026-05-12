@@ -123,10 +123,6 @@
           "price": 50000
         },
         {
-          "item": "cobblemon:master_ball",
-          "price": 500000
-        },
-        {
           "item": "cobblemon:cherish_ball",
           "price": 2000
         },
@@ -189,10 +185,6 @@
         {
           "item": "cobblemon:ancient_gigaton_ball",
           "price": 8000
-        },
-        {
-          "item": "cobblemon:ancient_origin_ball",
-          "price": 500000
         }
       ]
     },
@@ -200,31 +192,31 @@
       "Exp": [
         {
           "item": "cobblemon:exp_candy_xs",
-          "price": 500
+          "price": 600
         },
         {
           "item": "cobblemon:exp_candy_s",
-          "price": 4000
+          "price": 5000
         },
         {
           "item": "cobblemon:exp_candy_m",
-          "price": 15000
+          "price": 18000
         },
         {
           "item": "cobblemon:exp_candy_l",
-          "price": 50000
+          "price": 60000
         },
         {
           "item": "cobblemon:exp_candy_xl",
-          "price": 150000
+          "price": 160000
         },
         {
           "item": "cobblemon:rare_candy",
-          "price": 100000
+          "price": 120000
         },
         {
           "item": "cobblemon:exp_share",
-          "price": 250000
+          "price": 100000
         }
       ]
     }

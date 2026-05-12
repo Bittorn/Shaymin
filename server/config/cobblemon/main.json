@@ -7,7 +7,7 @@
   "dropAfterDeathAnimation": false,
   "ambientPokemonCryTicks": 1080,
   "defaultKeyItems": [],
-  "defaultBoxCount": 40,
+  "defaultBoxCount": 120,
   "pokemonSaveIntervalSeconds": 30,
   "storageFormat": "nbt",
   "preventCompletePartyDeposit": false,
@@ -46,7 +46,7 @@
     "cobblemon:sleep": "180-300",
     "cobblemon:burn": "180-300"
   },
-  "infiniteHealerCharge": false,
+  "infiniteHealerCharge": true,
   "maxHealerCharge": 6.0,
   "secondsToChargeHealingMachine": 900.0,
   "defaultFaintTimer": 300,
