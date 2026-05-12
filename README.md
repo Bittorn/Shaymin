@@ -43,7 +43,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Fight or Flight](https://modrinth.com/mod/cTdIg5HZ) [0.10.7] by rufia, LyquidQrystal (fightorflight-neoforge-0.10.7.jar)
 - [Cobblemon Raid Dens](https://modrinth.com/mod/GebWh45l) [0.11.0+1.21.1] by NecroSo1 (cobblemonraiddens-neoforge-0.11.0+1.21.1.jar)
 - [Cobblemon Smartphone](https://modrinth.com/mod/n2f1HbK8) [1.0.7] by RapidMesck, ZungGames (cobblemon_smartphone-neoforge-1.0.7.jar)
-- [Cobblemon:Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.2+1.7.3+1.21.1-hotfix] by Yajat Kaul (mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar)
+- [Cobblemon: Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.2+1.7.3+1.21.1-hotfix] by Yajat Kaul (mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar)
 - [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2.3.3] by gatekeep (cobblenav-neoforge-2.3.3.jar)
 - [PlayerXP](https://modrinth.com/mod/zlrbPCvu) [1.0.9+1.21.1] by chadlymasterson (playerxp-neoforge-1.0.9+1.21.1.jar)
 - [SimpleTMs](https://modrinth.com/mod/yFqR0DNc) [2.3.3] (SimpleTMs-neoforge-2.3.3.jar)
@@ -121,16 +121,28 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Mods
 
+- ### [Catch Indicator [Cobblemon Addon]](https://modrinth.com/project/tpTcu2PM)
 - ### [Controlling](https://modrinth.com/project/xv94TkTM)
+- ### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
+- ### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
 - ### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
+- ### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
+- ### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - *low priority*
 - ### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
 - ### [Default Options](https://modrinth.com/project/WEg59z5b)
+- ### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - *low priority*
 - ### [EMI](https://modrinth.com/project/fRiHVvU7) **OR** [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
     > [!NOTE]
     > While they are both very similar mods, which one works better with Cobblemon will be the deciding factor.
+- ### [FancyMenu](https://modrinth.com/project/Wq5SjeWM) - *low priority*, check [incompatibility list](https://docs.fancymenu.net/docs/incompatibility-list)
 - ### [Handcrafted](https://modrinth.com/project/pJmCFF0p)
+- ### [MissingMons [cobblemon]](https://modrinth.com/project/jbbBrQVa) - check compatibility
 - ### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
+- ### [Navas ZA Megas](https://modrinth.com/project/2V1Y86sc) - check compatibility
+- ### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ) - port to NeoForge or Sinytra Connector
+- ### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
 - ### [TarotCards: Remastered](https://www.curseforge.com/projects/1473837) - does not fit thematically
+- ### [TDmon](https://modrinth.com/project/b8PVSzJC) - might be out-of-date
 
 ### Datapacks
 
@@ -145,14 +157,35 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
     Well for one simple reason - I don't like the flat 2D brims on the original models. I don't know how but I always manage to look at it head on - making the brim disappear entirely, which gives the model a rather *interesting* look. Then I remembered that [RedRibbon](https://modrinth.com/user/RedRibbonz) made a better cap for her PokeCostumes addon - which didn't work with the new 1.7 models. I took that as a challenge, ported the cap to the new Pikachu model and gave it loooots of retexturing to turn one cap into 9!
 
+- #### [Canon PC Wallpapers [Cobblemon]](https://modrinth.com/project/chI5vWhB)
+    This addon adds a variety of wallpapers from Generations 3 through 9 to Cobblemon, via the new Wallpaper Addon Systems.
+
 - #### [CobbleMotion](https://modrinth.com/project/lIDAJAby)
     Adds a few Animations to Cobblemon Models that lack them. Attack Animations are still in progress but a number of Pokemon have animated attacks. All models in the pack have an Idle or Walking animation with some having attack animations and special in battle animations.
+
+- #### [GlitchDex - Cobblemon](https://modrinth.com/project/Gdq5F7ud)
+    > [!IMPORTANT]
+    > Might need reworking, last update is 2 years old
+
+    This Cobblemon Resource Pack adds some Pokemon that can't be obtained into Cobblemon!
 
 - #### [Lost Lore [Cobblemon]](https://modrinth.com/project/49cNEVjn)
     > [!IMPORTANT]
     > Needs discussion before adding, due to the non-canon nature
 
     In over 30 years of Pokémon as a franchise, they released many forms of media outside of the mainline games which includes many cool and unique forms and variants of beloved Pokémon - so why stop with forms from the mainline games? This addon aims to add many of them from various sources like the anime, movies, manga or side/spin-off games that are not considered *canon*.
+
+- #### [MelloMons](https://modrinth.com/project/HFE7B8bM)
+    > [!IMPORTANT]
+    > Might need reworking, last update is 1 year old
+
+    Currently this pack only adds in a remodel with a few animations for Mew. I do intend to add some cosmetic variants for mew later, but when that will be is undetermined.
+
+- #### [MysticMons](https://modrinth.com/project/TiFXQSAQ)
+    > [!IMPORTANT]
+    > Might need reworking, last update is 1 year old
+
+    This pack includes models and animations for Pokemon currently not available in the base mod. Also enables Legendaries to spawn in the wild
 
 - #### [SpaceworldMons [Cobblemon]](https://modrinth.com/project/yJEn7EQ4)
     > [!IMPORTANT]
