@@ -19,3 +19,7 @@ server/log4j2.xml
 server/banned-ips.json
 server/banned-players.json
 *.tmp
+server/usercache.json
+server/usernamecache.json
+server/config/plasmovoice/server/voice_mutes.json
+/server/config/chunky/tasks
