@@ -6,3 +6,16 @@
 /server/global_packs/required_resources
 .DS_Store
 *.jar
+*.env
+server/eula.txt
+/server/libraries
+server/.rcon-cli.yaml
+/server/.mixin.out
+server/.neoforge-manifest.json
+/server/showdown
+/server/world
+/server/logs
+server/log4j2.xml
+server/banned-ips.json
+server/banned-players.json
+*.tmp
