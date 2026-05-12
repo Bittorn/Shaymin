@@ -9,10 +9,10 @@ services:
       - 8119:25565/udp
     environment:
       EULA: "TRUE"
-      TYPE: CUSTOM
-      CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
+      TYPE: NEOFORGE
+      # CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
       VERSION: 1.21.1
-      # NEOFORGE_VERSION: 21.1.228
+      NEOFORGE_VERSION: 21.1.228
       INIT_MEMORY: 4G
       MAX_MEMORY: 12G
       USE_MEOWICE_FLAGS: true
@@ -41,6 +41,6 @@ services:
         limits:
           cpus: 4
     volumes:
-      - ./data:/data
+      - ./server:/data
     restart: unless-stopped
 networks: {}

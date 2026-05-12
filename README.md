@@ -6,7 +6,9 @@ Github repo for the Shaymin Minecraft server
 ## About
 
 ### Server
-Shaymin uses [Arclight](https://github.com/IzzelAliz/Arclight), a server that implements the Bukkit API on top of standard modding platforms, such as NeoForge. The exact version we use is `1.0.2-SNAPSHOT-0769551`.
+Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Since we do not use a server that supports the Bukkit API, we cannot use most commonly-used plugins for server management (CoreProtect, prism, etc.) When it becomes more stable, we will try to switch to [Arclight](https://github.com/IzzelAliz/Arclight), a server that implements the Bukkit API on top of standard modding platforms, such as NeoForge.
+> [!NOTE]
+> Some of our optimisation mods break Arclight when enabled (seems to be C2ME or another mod that changes chunk generation). We cannot switch until that has been resolved.
 
 ## Mods
 
