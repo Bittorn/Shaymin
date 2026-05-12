@@ -5,7 +5,6 @@ Github repo for the Shaymin Minecraft server
 
 ## About
 
-### Server
 Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Since we do not use a server that supports the Bukkit API, we cannot use most commonly-used plugins for server management (CoreProtect, prism, etc.) When it becomes more stable, we will try to switch to [Arclight](https://github.com/IzzelAliz/Arclight), a server that implements the Bukkit API on top of standard modding platforms, such as NeoForge.
 > [!NOTE]
 > Some of our optimisation mods break Arclight when enabled (seems to be C2ME or another mod that changes chunk generation). We cannot switch until that has been resolved.
@@ -92,15 +91,46 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Server-side
 
+## Config changes
+
+- (Cobblemon) Default box count raised from 40 to 120
+- (Cobblemon) Healers now have infinite charge
+
+- (Cobbledollars) Master Ball and Ancient Origin Ball are no longer available in the shop (why was it available by default anyway?)
+- (Cobbledollars) Candies are now slightly more expensive
+    - Exp Candy XS: 500 -> 600
+    - Exp Candy S: 4000 -> 5000
+    - Exp Candy M: 15K -> 18K
+    - Exp Candy L: 50K -> 60K
+    - Exp Candy XL: 150K -> 160K
+    - Rare Candy: 100K -> 120K
+- (Cobbledollars) Exp Share lowered from 250K to 100K
+
+- (FTB Chunks) PvP can now be toggled by claim owners
+- (FTB Chunks) Players can claim a maximum of 30 chunks
+- (FTB Chunks) Teams can claim a maximum of 500 chunks, calculated by the sum of the members' claim limits
+- (FTB Chunks) Forced chunk loading is *disabled* for server performance
+
 ## To-Do
 
 - [ ] Setup server host
 - [ ] Update to Cobblemon 1.8
 - [ ] Client-only mods
+- [ ] Further research [COBBLEVERSE 1.7.31](https://modrinth.com/project/Jkb29YJU) to see what we can yoink
+- [ ] Custom mods
 
 ### Mods
 
+- ### [Controlling](https://modrinth.com/project/xv94TkTM)
+- ### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
+- ### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
 - ### [Default Options](https://modrinth.com/project/WEg59z5b)
+- ### [EMI](https://modrinth.com/project/fRiHVvU7) **OR** [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
+    > [!NOTE]
+    > While they are both very similar mods, which one works better with Cobblemon will be the deciding factor.
+- ### [Handcrafted](https://modrinth.com/project/pJmCFF0p)
+- ### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
+- ### [TarotCards: Remastered](https://www.curseforge.com/projects/1473837) - does not fit thematically
 
 ### Datapacks
 
@@ -110,6 +140,11 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
     This pack is an addon for AllTheMons x Mega Showdown that adds new radiant Pokémon that are 5x rarer than regular shinies! While some of these new colorations will have a few references in them, others will just be new colors and with regular updates the entire Pokédex could eventually be radiant!
 
+- #### [Better Caps! [Cobblemon]](https://modrinth.com/project/mbndKTrW)
+    What is Better Caps & why does it exist?
+
+    Well for one simple reason - I don't like the flat 2D brims on the original models. I don't know how but I always manage to look at it head on - making the brim disappear entirely, which gives the model a rather *interesting* look. Then I remembered that [RedRibbon](https://modrinth.com/user/RedRibbonz) made a better cap for her PokeCostumes addon - which didn't work with the new 1.7 models. I took that as a challenge, ported the cap to the new Pikachu model and gave it loooots of retexturing to turn one cap into 9!
+
 - #### [CobbleMotion](https://modrinth.com/project/lIDAJAby)
     Adds a few Animations to Cobblemon Models that lack them. Attack Animations are still in progress but a number of Pokemon have animated attacks. All models in the pack have an Idle or Walking animation with some having attack animations and special in battle animations.
 
@@ -118,3 +153,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
     > Needs discussion before adding, due to the non-canon nature
 
     In over 30 years of Pokémon as a franchise, they released many forms of media outside of the mainline games which includes many cool and unique forms and variants of beloved Pokémon - so why stop with forms from the mainline games? This addon aims to add many of them from various sources like the anime, movies, manga or side/spin-off games that are not considered *canon*.
+
+- #### [SpaceworldMons [Cobblemon]](https://modrinth.com/project/yJEn7EQ4)
+    > [!IMPORTANT]
+    > Needs discussion before adding, due to the potention non-canon nature
+
+    SpaceworldMons adds over 70 Beta Pokémon from *an era long gone* to your Cobblemon world!
