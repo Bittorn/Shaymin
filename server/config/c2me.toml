@@ -36,6 +36,13 @@ globalExecutorParallelism = "default"
 	# 
 	# 
 	enforceSafeWorldRandomAccess = "default"
+	# (Default: true)  
+	#  Whether to disable the shutdown hook of log4j2 on dedicated servers.
+	#  Enabling this also makes the JVM exit when the dedicated server is considered fully shut down.
+	#  This option have no effect on client-side.
+	#  We has historically been doing this, and this config option allows you to disable this behavior.
+	# 
+	disableLoggingShutdownHook = "default"
 
 [ioSystem]
 	# (Default: false) EXPERIMENTAL FEATURE
@@ -46,6 +53,8 @@ globalExecutorParallelism = "default"
 	# Whether to use the fast reduced allocation chunk serializer
 	# (may cause incompatibility with other mods)
 	# 
+	# Set to false for the following reasons: 
+	# Incompatible with architectury@13.0.8 (*) (defined in c2me) 
 	gcFreeChunkSerializer = "default"
 	# (Default: 8192) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = "default"
@@ -114,12 +123,6 @@ globalExecutorParallelism = "default"
 	# Only applies when useLegacyScheduling is disabled.
 	# 
 	lowMemoryMode = "default"
-	# (Default: true) Whether to delay full chunk events to after full chunk future have been completed
-	# This restores the buggy behavior in NeoForge that the ecosystem have been relying on
-	# 
-	# Do not change this unless you know what you are doing
-	# 
-	delayFullChunkEvents = "default"
 
 [generalOptimizations]
 	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
@@ -144,18 +147,6 @@ globalExecutorParallelism = "default"
 		# Please preserve quotes so this config don't break
 		# 
 		mode = "default"
-
-	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		enabled = "default"
-		# (Default: 83) Max render distance allowed in game options
-		maxViewDistance = "default"
-		# (Default: true) Enable client-side support for extended render distance protocol (c2me:ext_render_distance_v1)
-		# This allows requesting render distances higher than 127 chunks from the server
-		# 
-		# Note: The server must advertise support this protocol for this to work
-		# 
-		enableExtRenderDistanceProtocol = "default"
 
 [vanillaWorldGenOptimizations]
 	# (Default: false) Whether to use density function compiler to accelerate world generation
@@ -195,13 +186,9 @@ globalExecutorParallelism = "default"
 	# (Default: true) Enable server-side support for extended render distance protocol (c2me:ext_render_distance_v1)
 	# This allows requesting render distances higher than 127 chunks from the server
 	# 
+	# Requires Fabric API (currently available)
+	# 
 	enableExtRenderDistanceProtocol = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
-	# (Default: 200) Applies a multiplier *in percentage* to the target chunk sending rate from vanilla
-	# Setting this to 0 disables rate limiting
-	# 
-	# Defaults to 200, which is 200%
-	# 
-	chunkSendingSpeedMultiplierPercentage = "default"

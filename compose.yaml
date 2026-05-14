@@ -9,12 +9,12 @@ services:
       - 8119:25565/udp
     environment:
       EULA: "TRUE"
-      TYPE: NEOFORGE
+      TYPE: FABRIC
       # CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
       VERSION: 1.21.1
-      NEOFORGE_VERSION: 21.1.228
+      # NEOFORGE_VERSION: 21.1.228
       INIT_MEMORY: 4G
-      MAX_MEMORY: 12G
+      MAX_MEMORY: 16G
       USE_MEOWICE_FLAGS: true
       TZ: Australia/Melbourne
       STOP_SERVER_ANNOUNCE_DELAY: 30
@@ -25,7 +25,7 @@ services:
       DIFFICULTY: normal
       MODE: survival
       MOTD: |
-        §3Shaymin Cobblemon §d[2.0-alpha]§r
+        §3Shaymin Cobblemon §d[2.0-alpha.2]§r
         §kpog§6 who cares lmao §7§kpog
       BROADCAST_CONSOLE_TO_OPS: false
       MAX_PLAYERS: 20
