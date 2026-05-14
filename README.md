@@ -139,17 +139,19 @@ Shaymin currently runs on Fabric 0.19.2, though this is less than ideal. Since w
 - [ ] Client-only mods
 - [ ] Further research [COBBLEVERSE 1.7.31](https://modrinth.com/project/Jkb29YJU) to see what we can yoink
 - [ ] Custom mods
+- [ ] Legacy gyms?
+- [ ] NPC fight logging
 
 ### Mods
 
 - #### [Catch Indicator [Cobblemon Addon]](https://modrinth.com/project/tpTcu2PM)
 - #### [Controlling](https://modrinth.com/project/xv94TkTM)
-- #### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
+- #### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV)
 - #### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
 - #### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
-- #### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
+- #### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL)
 - #### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - *low priority*
-- #### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
+- #### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0)
 - #### [Default Options](https://modrinth.com/project/WEg59z5b)
 - #### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - *low priority*
 - #### [EMI](https://modrinth.com/project/fRiHVvU7) *or* [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
@@ -160,9 +162,9 @@ Shaymin currently runs on Fabric 0.19.2, though this is less than ideal. Since w
 - #### [MissingMons [cobblemon]](https://modrinth.com/project/jbbBrQVa) - check compatibility
 - #### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
 - #### [Navas ZA Megas](https://modrinth.com/project/2V1Y86sc) - check compatibility
-- #### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ) - port to NeoForge or Sinytra Connector
+- #### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ)
 - #### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
-- #### [TarotCards: Remastered](https://www.curseforge.com/projects/1473837) - does not fit thematically
+- #### [Pokemon Field Lab](https://modrinth.com/mod/pokemon-field-lab)
 - #### [TDmon](https://modrinth.com/project/b8PVSzJC) - might be out-of-date
 - #### [Very Many Players (Fabric)](https://www.curseforge.com/minecraft/mc-mods/vmp-fabric) - check how works
 
