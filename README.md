@@ -44,16 +44,21 @@ Shaymin currently runs on Fabric 0.19.2, though this is less than ideal. Since w
 
 ### Client-side mods
 
+- [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.4\.3\.21] by way2muchnoise
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.2] by tr7zw
+- [Highlight](https://modrinth.com/mod/Vz96hXMh) [3\.0\.0] by ThatGravyBoat
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.10\+1\.21\.1] by RK\_01
 - [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [2\.2\.6] by Mirinimi
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.8\+mc1\.21\.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11\.0\.4] by Prospector, haykam821, TerraformersMC
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26] by Ivan Molodetskikh \(YaLTeR\)
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4] by FlashyReese
-- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.8\.12\-alpha\.3\+mc1\.21\.1] by JellySquid \(jellysquid3\)
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.6\.13\+mc1\.21\.1] by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) [0\.6\.0\+mc1\.21\.1] by FlashyReese
+- [Sodium Extras](https://modrinth.com/mod/vqqx0QiE) [1\.0\.7] by toni
+- [Sodium Options Mod Compat](https://modrinth.com/mod/Yg1VT27P) [1\.0\.0] by Toni, DeeChael
 - [Zoomify](https://modrinth.com/mod/w7ThoJFB) [2\.15\.2\+1\.21\.1] by isXander
+
 
 ### Server-side mods
 
@@ -97,6 +102,8 @@ Shaymin currently runs on Fabric 0.19.2, though this is less than ideal. Since w
 ### Client-side library mods
 
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2\.4\.2\+1\.21] by Patbox
+- [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1\.0\.10] by toni
+- [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1\.0\.24] by Toni
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2\+1\.21\.1\-fabric] by isXander
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6\.6\.3] by Mirinimi
 
