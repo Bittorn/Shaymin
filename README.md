@@ -67,7 +67,6 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Fight or Flight](https://modrinth.com/mod/cTdIg5HZ) [0.10.7] by rufia, LyquidQrystal
 - [Cobblemon Pasture Loot NeoForged](https://modrinth.com/mod/TRV8eMkc) [0\.1\.0\+1\.21\.1] by YoruTheWizard
 - [Cobblemon Raid Dens](https://modrinth.com/mod/GebWh45l) [0.11.0+1.21.1] by NecroSo1
-- [Cobblemon Repel NEOReforged](https://modrinth.com/mod/Sts4MWXj) [1\.0\.1] by Sniklz, deuli \- Original Fabric mod creator
 - [Cobblemon Smartphone](https://modrinth.com/mod/n2f1HbK8) [1.0.7] by RapidMesck, ZungGames
 - [Cobblemon: Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.2+1.7.3+1.21.1-hotfix] by Yajat Kaul
 - [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2.3.3] by gatekeep
@@ -109,7 +108,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1.7.3] by Apollo
 - [Platform](https://modrinth.com/mod/i6fiqm5y) [1.3.3] by ItsBlackGear
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4\.1\.0\.8] by Adubbz
-- [Tim Core](https://modrinth.com/mod/lVP9aUaY) [1\.8\.0\-neoforge\-1\.32\.0\-r1] by timinc aka Timothy Metcalfe
+- [Tim Core](https://modrinth.com/mod/lVP9aUaY) [1\.7\.3\-neoforge\-1\.32\.0] by timinc aka Timothy Metcalfe
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1\.21\.1\-NeoForge\-5\.1\.6] by YUNGNICKYOUNG
 - [cobblemore_lib](https://modrinth.com/mod/VYP2vmDS) [1.2.7] by Cobblemore Studio
 - [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.15.5-beta.1+1.21] by glisco, Blodhgarm, BasiqueEvangelist, Noaaan
@@ -262,3 +261,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
   SpaceworldMons adds over 70 Beta Pokémon from _an era long gone_ to your Cobblemon world!
   > [!IMPORTANT]
   > Needs discussion before adding, due to the potential non-canon nature
+
+### Broken stuff (name and shame!)
+
+- [Cobblemon Repel NEOReforged](https://modrinth.com/mod/Sts4MWXj) [1\.0\.1] by Sniklz, deuli \- Original Fabric mod creator
+    > Does not work for Cobblemon 1.7, hasn't been updated in 7 months!  
+    > **Update:** [Someone](https://github.com/AzulConspirator/Cobblemon-Repel-neoforge/) seems to have made it work, but will need to check if it's malware since it isn't available anywhere but GitHub.
