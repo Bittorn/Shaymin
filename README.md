@@ -34,9 +34,14 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3.0.9+mc1.21] by squeek
 - [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G) [21\.1\.0\.13] by Adubbz, Forstride
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9\.0\.5\+1\.21\.1] by Illusive Soulworks
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [3\.0\.3\-b]
+- [EMI](https://modrinth.com/mod/fRiHVvU7) [1\.1\.24\+1\.21\.1\+neoforge] by Emi
+- [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0\.7\.9\+1\.21\+neoforge] by fzzyhmstrs, lxly9 \(art\), unilock \(ports\)
+- [EMI Ores](https://modrinth.com/mod/sG4TqDb8) [1\.2\+1\.21\.1\+neoforge] by Abbie
 - [Incendium](https://modrinth.com/mod/ZVzW5oNS) [5\.4\.3] by Stardust Labs
 - [Incendium Biomes Only](https://modrinth.com/mod/gmUU3UdW) [3\.1\.0] by Naomi Roberts
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15.10.5+neoforge] by Snownee
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [19\.27\.0\.340] by mezz
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [1.21.1-1.11.37.120] by Noobanidus
 - [Nullscape](https://modrinth.com/mod/LPjGiSO4) [1\.2\.14] by Stardust Labs
 - [Ping Wheel](https://modrinth.com/mod/QQXAdCzh) [1\.12\.2] by Luken, RXJpaw
@@ -62,19 +67,20 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [CobbleDollars](https://modrinth.com/mod/s7N7AsqL) [2.0.0+Beta-5.1+1.21.1] by Harmex
 - [Cobblemon](https://modrinth.com/mod/MdwFAVRL) [1.7.3+1.21.1] by The Cobblemon Team
 - [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1\.13\.45] by Raguto & Yemagh
-- [Cobblemon cafe](https://modrinth.com/mod/469QXqgC) [5\.0\.0] by rinkablu1
 - [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1\.7\.3\-neoforge\-1\.3\.0] by timinc aka Timothy Metcalfe
+- [Cobblemon EMI Compat](https://modrinth.com/mod/RlxO60z3) [1\.1\.0] by Rehv
 - [Cobblemon Fight or Flight](https://modrinth.com/mod/cTdIg5HZ) [0.10.7] by rufia, LyquidQrystal
 - [Cobblemon Pasture Loot NeoForged](https://modrinth.com/mod/TRV8eMkc) [0\.1\.0\+1\.21\.1] by YoruTheWizard
 - [Cobblemon Raid Dens](https://modrinth.com/mod/GebWh45l) [0.11.0+1.21.1] by NecroSo1
 - [Cobblemon Smartphone](https://modrinth.com/mod/n2f1HbK8) [1.0.7] by RapidMesck, ZungGames
+- [Cobblemon cafe](https://modrinth.com/mod/469QXqgC) [5.0.0] by rinkablu1
 - [Cobblemon: Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.2+1.7.3+1.21.1-hotfix] by Yajat Kaul
 - [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2.3.3] by gatekeep
-- [Counter](https://modrinth.com/mod/rj8uLYP4) [1\.7\.3\-neoforge\-1\.9\.0] by timinc aka Timothy Metcalfe
-- [MoreCobblemonTweaks](https://modrinth.com/mod/5KWlJ2HC) [1\.3\.3] by JustAHuman
+- [Counter](https://modrinth.com/mod/rj8uLYP4) [1.7.3-neoforge-1.9.0] by timinc aka Timothy Metcalfe
+- [MoreCobblemonTweaks](https://modrinth.com/mod/5KWlJ2HC) [1.3.3] by JustAHuman
 - [PlayerXP](https://modrinth.com/mod/zlrbPCvu) [1.0.9+1.21.1] by chadlymasterson
 - [SimpleTMs](https://modrinth.com/mod/yFqR0DNc) [2.3.3]
-- [Unchained](https://modrinth.com/mod/wh0wnzrT) [1\.7\.3\-neoforge\-1\.7\.1] by timinc aka Timothy Metcalfe
+- [Unchained](https://modrinth.com/mod/wh0wnzrT) [1.7.3-neoforge-1.7.1] by timinc aka Timothy Metcalfe
 - [cobblemon_poke_stops](https://modrinth.com/mod/HiwZaUgN) [1.0.0] by Cobblemore Studio
 
 ### Utility & compatibility mods
@@ -102,6 +108,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13.0.8] by shedaniel
 - [Balm](https://modrinth.com/mod/MBAkmtvl) [21.0.58] by BlayTheNinth
 - [FTB Library](https://www.curseforge.com/projects/404465) [2101.1.31] by FTB Team
+- [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.6\+1\.21\+neoforge] by fzzyhmstrs
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4.8.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [GlitchCore](https://modrinth.com/mod/s3dmwKy5) [2\.1\.0\.0] by Adubbz
 - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) [NrSebcsG]
@@ -120,13 +127,16 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2\.8\.22] by Akkiruk
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5] by Jaredlll08
 - [Crafting Tweaks](https://modrinth.com/mod/DMu0oBKf) [21\.1\.10] by BlayTheNinth
+- [Distraction Free Recipes \(EMI\)](https://modrinth.com/mod/gbJLUhZP) [1\.2\.1] by Toni
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3\.11\.4] by juliand665 & LostLuma
+- [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) [0\.1\.2\+1\.21\+neoforge] by fzzyhmstrs
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.2\.4] by Traben
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.1] by Traben
 - [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) [2\.2\.5] by Mirinimi
 - [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.12\-snapshot\+mc1\.21\.1\-local] by coderbot, IMS212
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26\.1] by Ivan Molodetskikh \(YaLTeR\)
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [1\.8\.3\+mc1\.21\.4] by FlashyReese
+- [ResourcePackCached](https://modrinth.com/mod/d4phKsx2) [1\.2\.5] by Furq
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.2] by Jaredlll08
 - [Sodium](https://modrinth.com/mod/AANobbMI) [0\.6\.13\+mc1\.21\.1] by JellySquid \(jellysquid3\), IMS212
 - [Sodium Dynamic Lights](https://modrinth.com/mod/PxQSWIcD) [1\.0\.9] by toni, LambdAurora
@@ -136,6 +146,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 ### Client-side library mods
 
 - [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1\.0\.10] by toni
+- [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1\.0\.24] by Toni
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6\.6\.3] by Mirinimi
 
 ## Global Packs
@@ -149,6 +160,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Triple Bakalutions](https://modrinth.com/project/mv8ODnvK) [1.1.1] by EefHere, Strawberr1Milkshake, regional_minty, Tortu (Data Pack, Resource Pack)
 
 ### Client-side
+
+- [E19 - Cobblemon Minimap Icons](https://modrinth.com/project/Va3BanZa) by Emery319
+- [Eeveelutions Reimagined](https://modrinth.com/project/TC6XISro)
 
 ### Server-side
 
