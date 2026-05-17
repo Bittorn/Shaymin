@@ -168,57 +168,56 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ## Config changes
 
-- (Cobblemon) Default box count raised from 40 to 120
-- (Cobblemon) Healers now have infinite charge
+- Cobblemon
+  - Default box count raised from 40 to 120
+  - Healers now have infinite charge
 
-- (Cobbledollars) Master Ball and Ancient Origin Ball are no longer available in the shop (why was it available by default anyway?)
-- (Cobbledollars) Candies are now slightly more expensive
-  - Exp Candy XS: 500 -> 600
-  - Exp Candy S: 4000 -> 5000
-  - Exp Candy M: 15K -> 18K
-  - Exp Candy L: 50K -> 60K
-  - Exp Candy XL: 150K -> 160K
-  - Rare Candy: 100K -> 120K
-- (Cobbledollars) Exp Share lowered from 250K to 100K
+- Cobbledollars
+  - Master Ball and Ancient Origin Ball are no longer available in the shop (why was it available by default anyway?)
+  - Candies are now slightly more expensive
+    - Exp Candy XS: 500 -> 600
+    - Exp Candy S: 4000 -> 5000
+    - Exp Candy M: 15K -> 18K
+    - Exp Candy L: 50K -> 60K
+    - Exp Candy XL: 150K -> 160K
+    - Rare Candy: 100K -> 120K
+  - Exp Share lowered from 250K to 100K
 
-- (FTB Chunks) PvP can now be toggled by claim owners
-- (FTB Chunks) Players can claim a maximum of 30 chunks
-- (FTB Chunks) Teams can claim a maximum of 500 chunks, calculated by the sum of the members' claim limits
-- (FTB Chunks) Forced chunk loading is _disabled_ for server performance
+- FTB Chunks
+  - PvP can now be toggled by claim owners
+  - Players can claim a maximum of 30 chunks
+  - Teams can claim a maximum of 500 chunks, calculated by the sum of the members' claim limits
+  - Disabled forced chunk loading to maintain server performance
 
 ## To-Do
 
-- [ ] Setup server host
+- [ ] Setup server host - [UltraServers](https://ultraservers.com/)
 - [ ] Update to Cobblemon 1.8
-- [ ] Client-only mods
+- [x] Client-only mods
 - [ ] Further research [COBBLEVERSE 1.7.31](https://modrinth.com/project/Jkb29YJU) to see what we can yoink
 - [ ] Custom mods
 - [ ] Legacy gyms based on old Cobblemon server gym leaders and teams
 - [ ] PokéLatin alphabet blocks - _very easy to implement, just time-consuming_
-- [ ] Create Mod, but only trains - _slightly harder + need to verify features work properly_
+- [~] Create Mod, but only trains - _in progress, need to complete recipe changes_
 - [ ] Port textures from [COBBLEVERSE badges](https://modrinth.com/mod/cobbleverse-badges)
 - [ ] Rework those same textures to the same quality standard as current badges (maybe use some from [LumyMon](https://modrinth.com/project/QAX8WiBc)?)
+- [~] KubeJS modifications - rose quartz from BOP -> Create Rose Quartz
+- [ ] Cobblemon Battle Extras configure
+- [ ] Economy - keystones, wishing stars, z-crystals
 
 ### Mods
 
-- #### [Catch Indicator [Cobblemon Addon]](https://modrinth.com/project/tpTcu2PM)
-- #### [Controlling](https://modrinth.com/project/xv94TkTM)
 - #### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
 - #### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
-- #### [Cobblemon: SafePastures](https://modrinth.com/project/qpe01spE)
 - #### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
 - #### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - _low priority_
 - #### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
 - #### [Cobbreeding](https://modrinth.com/project/ItmVb4zY)
 - #### [Default Options](https://modrinth.com/project/WEg59z5b)
 - #### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - _low priority_
-- #### [EMI](https://modrinth.com/project/fRiHVvU7) _or_ [Just Enough Items (JEI)](https://modrinth.com/project/u6dRKJwZ)
-  > [!NOTE]
-  > While they are both very similar mods, which one works better with Cobblemon will be the deciding factor.
 - #### [FancyMenu](https://modrinth.com/project/Wq5SjeWM) - _low priority_, check [incompatibility list](https://docs.fancymenu.net/docs/incompatibility-list)
 - #### [Handcrafted](https://modrinth.com/project/pJmCFF0p)
 - #### [MissingMons [cobblemon]](https://modrinth.com/project/jbbBrQVa) - check compatibility
-- #### [MoreCobblemonTweaks](https://modrinth.com/project/5KWlJ2HC)
 - #### [Navas ZA Megas](https://modrinth.com/project/2V1Y86sc) - check compatibility
 - #### [Only Bottle Caps](https://modrinth.com/project/tDRRddpZ) - port to NeoForge or Sinytra Connector
 - #### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
@@ -279,5 +278,5 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 ### Broken stuff (name and shame!)
 
 - [Cobblemon Repel NEOReforged](https://modrinth.com/mod/Sts4MWXj) [1\.0\.1] by Sniklz, deuli \- Original Fabric mod creator
-    > Does not work for Cobblemon 1.7, hasn't been updated in 7 months!  
-    > **Update:** [Someone](https://github.com/AzulConspirator/Cobblemon-Repel-neoforge/) seems to have made it work, but will need to check if it's malware since it isn't available anywhere but GitHub.
+  > Does not work for Cobblemon 1.7, hasn't been updated in 7 months!  
+  > **Update:** [Someone](https://github.com/AzulConspirator/Cobblemon-Repel-neoforge/) seems to have made it work, but will need to check if it's malware since it isn't available anywhere but GitHub.
