@@ -25,7 +25,7 @@ services:
       DIFFICULTY: normal
       MODE: survival
       MOTD: |
-        §3Shaymin Cobblemon §d[2.0-alpha.1]§r
+        §3Shaymin Cobblemon §d[2.0-alpha.3]§r
         §kpog§6 who cares lmao §7§kpog
       BROADCAST_CONSOLE_TO_OPS: false
       MAX_PLAYERS: 20

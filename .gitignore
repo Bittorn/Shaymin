@@ -25,3 +25,4 @@ server/config/plasmovoice/server/voice_mutes.json
 /server/config/chunky/tasks
 server/usercache.json
 *.code-workspace
+*.disabled
