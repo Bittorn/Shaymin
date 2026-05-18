@@ -1,15 +1,23 @@
 // Visit the wiki for more info - https://kubejs.com/
 console.info("Loaded Shaymin KubeJS (server_scripts)");
 
-// #region Nuke unwanted
-
+// Nuke unwanted recipes
 ServerEvents.recipes((event) => {
   // Remove all Create recipes
   event.remove({ mod: "create" });
 
   // Remove chisel from Chipped
-  event.remove({ output: 'chipped:chisel' });
+  event.remove({ output: "chipped:chisel" });
 });
+
+// This doesn't work for some reason?
+// RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
+//   // Remove all Create recipes
+//   event.remove({ mod: "create" });
+
+//   // Remove chisel from Chipped
+//   event.remove({ output: "chipped:chisel" });
+// });
 
 // Remove Create recipe categories
 RecipeViewerEvents.removeCategories((event) => {
@@ -39,10 +47,7 @@ LootJS.modifiers((event) => {
   );
 });
 
-// #endregion
-
-// #region Re-add stuff we actually want
-
+// Re-add stuff we actually want
 ServerEvents.recipes((event) => {
   // #region Cardboard armor and sword
   event.shaped(
@@ -118,6 +123,65 @@ ServerEvents.recipes((event) => {
 
   // #endregion
 
+  // #region Train stuff
+
+  // Metal Girder
+  event.shapeless(Item.of("create:metal_girder", 8), [
+    "3x minecraft:iron_ingot",
+    "3x minecraft:iron_nugget",
+  ]);
+
+  // Train Track
+  event.shapeless(Item.of("create:track", 1), [
+    "3x minecraft:iron_nugget",
+    "3x minecraft:smooth_stone_slab",
+  ]);
+
+  // Train Station
+  event.shapeless(Item.of("create:track_station", 1), [
+    "create:railway_casing",
+    "minecraft:compass",
+  ]);
+
+  // Train Observer
+  event.shapeless(Item.of("create:track_observer", 2), [
+    "create:railway_casing",
+    "#minecraft:wooden_pressure_plates",
+  ]);
+
+  // Train Signal
+  event.shapeless(Item.of("create:track_signal", 4), [
+    "create:railway_casing",
+    "minecraft:redstone",
+    "create:rose_quartz",
+    "minecraft:iron_ingot",
+  ]);
+
+  // Train Schedule
+  event.shapeless(Item.of("create:schedule", 4), [
+    "create:railway_casing",
+    "minecraft:paper",
+  ]);
+
+  // Train Controls
+  event.shaped(
+    Item.of("create:controls", 1), // arg 1: output
+    [
+      " A ",
+      "BCB", // arg 2: the shape (array of strings)
+      "EDE",
+    ],
+    {
+      A: "minecraft:lever", //arg 3: the mapping object
+      B: "minecraft:iron_nugget",
+      C: "create:railway_casing",
+      D: "minecraft:gold_ingot",
+      E: "minecraft:redstone",
+    },
+  );
+
+  // #endregion
+
   // #region Food
 
   // Chocolate Glazed Berries
@@ -148,107 +212,22 @@ ServerEvents.recipes((event) => {
 
   // #endregion
 
-  // #region Seats
-
-  // White Seat
-  event.shapeless(Item.of("create:white_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:white_wool",
-  ]);
-
-  // Orange Seat
-  event.shapeless(Item.of("create:orange_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:orange_wool",
-  ]);
-
-  // Magenta Seat
-  event.shapeless(Item.of("create:magenta_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:magenta_wool",
-  ]);
-
-  // Light Blue Seat
-  event.shapeless(Item.of("create:light_blue_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:light_blue_wool",
-  ]);
-
-  // Yellow Seat
-  event.shapeless(Item.of("create:yellow_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:yellow_wool",
-  ]);
-
-  // Lime Seat
-  event.shapeless(Item.of("create:lime_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:lime_wool",
-  ]);
-
-  // Pink Seat
-  event.shapeless(Item.of("create:pink_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:pink_wool",
-  ]);
-
-  // Gray Seat
-  event.shapeless(Item.of("create:gray_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:gray_wool",
-  ]);
-
-  // Light Gray Seat
-  event.shapeless(Item.of("create:light_gray_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:light_gray_wool",
-  ]);
-
-  // Cyan Seat
-  event.shapeless(Item.of("create:cyan_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:cyan_wool",
-  ]);
-
-  // Purple Seat
-  event.shapeless(Item.of("create:purple_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:purple_wool",
-  ]);
-
-  // Blue Seat
-  event.shapeless(Item.of("create:blue_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:blue_wool",
-  ]);
-
-  // Brown Seat
-  event.shapeless(Item.of("create:brown_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:brown_wool",
-  ]);
-
-  // Green Seat
-  event.shapeless(Item.of("create:green_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:green_wool",
-  ]);
-
-  // Red Seat
-  event.shapeless(Item.of("create:red_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:red_wool",
-  ]);
-
-  // Black Seat
-  event.shapeless(Item.of("create:black_seat"), [
-    "#minecraft:wooden_slabs",
-    "minecraft:black_wool",
-  ]);
-
-  // #endregion
-
   // #region Decorative blocks
+
+  // Desk Bell
+  event.shaped(
+    Item.of("create:desk_bell", 1),
+    [
+      "AAA",
+      "ABA", // arg 2: the shape (array of strings)
+      "CCC",
+    ],
+    {
+      A: "minecraft:gold_nugget",
+      B: "minecraft:redstone",
+      C: "minecraft:spruce_slab",
+    },
+  );
 
   // Andesite Door
   event.shapeless(Item.of("create:andesite_door"), [
@@ -332,9 +311,22 @@ ServerEvents.recipes((event) => {
     "#c:glass_panes/colorless",
   );
 
+  // All Seats
+  Color.DYE.forEach((color) => {
+    event.shapeless(Item.of(`create:${color}_seat`), [
+      "#minecraft:wooden_slabs",
+      `minecraft:${color}_wool`,
+    ]);
+  });
+
   // #endregion
 
   // #region Misc
+
+  // Rose Quartz
+  event
+    .smelting("create:rose_quartz", "biomesoplenty:rose_quartz_chunk")
+    .xp(0.35);
 
   // Super Glue
   event.shapeless(Item.of("create:super_glue"), [
@@ -343,34 +335,11 @@ ServerEvents.recipes((event) => {
   ]);
 
   // Rose Quartz Lamp
-  event.shaped(
-    Item.of("create:rose_quartz_lamp", 1),
-    [
-      "ABA",
-      "BCB", // arg 2: the shape (array of strings)
-      "ABA",
-    ],
-    {
-      A: "minecraft:quartz",
-      B: "minecraft:redstone",
-      C: "minecraft:redstone_lamp",
-    },
-  );
-
-  // Desk Bell
-  event.shaped(
-    Item.of("create:desk_bell", 1),
-    [
-      "AAA",
-      "ABA", // arg 2: the shape (array of strings)
-      "CCC",
-    ],
-    {
-      A: "minecraft:gold_nugget",
-      B: "minecraft:redstone",
-      C: "minecraft:spruce_slab",
-    },
-  );
+  event.shapeless(Item.of("create:rose_quartz_lamp", 1), [
+    "minecraft:redstone_lamp",
+    "minecraft:redstone",
+    "create:rose_quartz",
+  ]);
 
   // Wrench
   event.shaped(
@@ -400,8 +369,7 @@ ServerEvents.recipes((event) => {
   // #endregion
 });
 
-// #endregion
-
+// Cute login event
 PlayerEvents.loggedIn((event) => {
   let player = event.player;
 
