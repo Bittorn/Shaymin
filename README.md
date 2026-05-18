@@ -178,6 +178,15 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1.0.24] by Toni
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6.6.3] by Mirinimi
 
+### Server-side mods
+
+- [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
+- [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.140-neoforge] by lucko
+- [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
+- [ServerCore](https://modrinth.com/project/4WWQxlQP) [1.5.10+1.21.1] by Wesley1808
+- [TAB](https://modrinth.com/project/gG7VFbG0) [5.5.0] by NEZNAMY, JT122406
+- [WorldEdit](https://modrinth.com/project/1u6JkXh5) [7.3.8] by me4502
+
 ## Global Packs
 
 - [AllTheMons x Mega Showdown](https://modrinth.com/project/odZZdRCE) [v3.5.0] by _*whistles* a lot of people_ (Data Pack, Resource Pack)
@@ -195,7 +204,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Server-side
 
-## Config changes
+## Config changes (server-side)
 
 - Cobblemon
   - Default box count raised from 40 to 120
@@ -218,6 +227,17 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
   - Teams can claim a maximum of 500 chunks, calculated by the sum of the members' claim limits
   - Disabled forced chunk loading to maintain server performance
 
+### Server config files
+
+- cobbledollars/
+- cobblemon/
+- MiniMOTD/
+- servercore/
+- tab/
+- bfcrmod-common.toml
+- ftbchunks-world.snbt
+- ftbteams-server.snbt
+
 ## To-Do
 
 - [ ] Setup server host - [UltraServers](https://ultraservers.com/)
@@ -233,6 +253,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [~] KubeJS modifications - rose quartz from BOP -> Create Rose Quartz - looping dye functions
 - [ ] Cobblemon Battle Extras configure
 - [ ] Economy - keystones, wishing stars, z-crystals
+- [ ] Fortnightly events
 
 ### Mods
 
