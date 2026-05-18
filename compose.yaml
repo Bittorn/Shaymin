@@ -14,7 +14,8 @@ services:
       VERSION: 1.21.1
       NEOFORGE_VERSION: 21.1.228
       INIT_MEMORY: 4G
-      MAX_MEMORY: 12G
+      MIN_MEMORY: 8G
+      MAX_MEMORY: 16G
       USE_MEOWICE_FLAGS: true
       TZ: Australia/Melbourne
       STOP_SERVER_ANNOUNCE_DELAY: 30
@@ -33,13 +34,17 @@ services:
       SIMULATION_DISTANCE: 6
       VIEW_DISTANCE: 8
       SPAWN_PROTECTION: 0
-      CUSTOM_SERVER_PROPERTIES: |
-        mob-griefing=false
-        tnt-explosions=false
+      RCON_CMDS_STARTUP:  |
+        gamerule mobGriefing false
+        gamerule doWardenSpawning false
+        gamerule announceAdvancements false
+        gamerule doInsomnia false
+        gamerule projectilesCanBreakBlocks false
+        gamerule commandBlockOutput false
     deploy:
       resources:
         limits:
-          cpus: 4
+          cpus: 6
     volumes:
       - ./server:/data
     restart: unless-stopped
