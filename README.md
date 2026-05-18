@@ -180,9 +180,11 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Server-side mods
 
+- [Alternate Current](https://modrinth.com/project/r0v8vy1s) [neoforge-mc1.21-1.9.0] by Space Walker
 - [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
 - [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.140-neoforge] by lucko
 - [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
+- [Monsters in the Closet](https://modrinth.com/project/GMA8jFBD) [1.0.3+1.21-neo] by Minenash
 - [ServerCore](https://modrinth.com/project/4WWQxlQP) [1.5.10+1.21.1] by Wesley1808
 - [TAB](https://modrinth.com/project/gG7VFbG0) [5.5.0] by NEZNAMY, JT122406
 - [WorldEdit](https://modrinth.com/project/1u6JkXh5) [7.3.8] by me4502
@@ -203,6 +205,10 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Eeveelutions Reimagined](https://modrinth.com/project/TC6XISro)
 
 ### Server-side
+
+- [Nether 1 to 1](https://modrinth.com/project/qHpyw34B) [1] by Mesalon
+- [VeinMiner](https://modrinth.com/project/OhduvhIc) [1.2.4] by Miraculixx
+- [VeinMiner Enchantment](https://modrinth.com/project/4sP0LXxp) [1.2.3] by Miraculixx
 
 ## Config changes (server-side)
 
