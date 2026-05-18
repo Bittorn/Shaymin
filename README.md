@@ -206,13 +206,37 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ## Config changes (server-side)
 
+- Biomes O' Plenty
+  - Ugly biomes disabled:
+    - Bog
+    - Cold Desert
+    - Dryland
+    - End Corruption
+    - End Reef
+    - End Wilds
+    - Field
+    - Forested Field
+    - Grassland
+    - Jade Cliffs
+    - Lush Savanna
+    - Old Growth Woodland
+    - Ominous Woods
+    - Rocky Shrubland
+    - Scrubland
+    - Shrubland
+    - Spider Nest
+    - Tundra
+    - Undergrowth
+    - Volcano
+    - Woodland
+
 - Cobblemon
   - Default box count raised from 40 to 120
   - Healers now have infinite charge
 
 - Cobbledollars
   - Master Ball and Ancient Origin Ball are no longer available in the shop (why was it available by default anyway?)
-  - Candies are now slightly more expensive
+  - Candies are now slightly more expensive:
     - Exp Candy XS: 500 -> 600
     - Exp Candy S: 4000 -> 5000
     - Exp Candy M: 15K -> 18K
@@ -221,16 +245,39 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
     - Rare Candy: 100K -> 120K
   - Exp Share lowered from 250K to 100K
 
+- Cobblemon Raid Dens
+  - Chance of raid dens spawning in overworld reduced from 1/256 to 1/512
+  - Reward distribution algorithm changed from 'random' to 'damage'
+  - Failed raids now count towards max clears
+
+- Create
+  - (Common) Disable world gen
+  - (Server) Train top speed increased from 28 to 42
+  - (Server) Train top speed through a turn increased from 14 to 20
+  - (Server) Lowered maximum amount of bogeys assembled as a single train from 20 to 10
+
 - FTB Chunks
   - PvP can now be toggled by claim owners
   - Players can claim a maximum of 30 chunks
   - Teams can claim a maximum of 500 chunks, calculated by the sum of the members' claim limits
   - Disabled forced chunk loading to maintain server performance
+  - (Datapack) Players can interact with PCs and Healing Machines inside claims
+
+- ServerCore
+  - Target MSPT changed from 35 to 38
+  - View distance:
+    - Max view distance changed to 16
+    - Min view distance changed to 6
+    - View distance checked every 30 seconds
+  - Simulation distance:
+    - Max simulation distance changed to 10
+    - Min simulation distance changed to 6
 
 ### Server config files
 
 - cobbledollars/
 - cobblemon/
+- cobblemonraiddens/
 - MiniMOTD/
 - servercore/
 - tab/
