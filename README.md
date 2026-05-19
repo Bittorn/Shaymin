@@ -35,13 +35,17 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Apothic Enchanting](https://www.curseforge.com/projects/1063926) [1.5.2] by Shadows_of_Fire
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3.0.9+mc1.21] by squeek
 - [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G) [21.1.0.13] by Adubbz, Forstride
+- [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1.1] by LunazStudios
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9.0.5+1.21.1] by Illusive Soulworks
 - [Chipped](https://modrinth.com/mod/BAscRYKm) [4.0.2] by Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat
 - [Create](https://modrinth.com/mod/LNytGWDc) [6.0.10] by simibubi
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [3.0.3-b]
+- [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) [21.1.0] by Fuzs
 - [EMI](https://modrinth.com/mod/fRiHVvU7) [1.1.24+1.21.1+neoforge] by Emi
 - [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0.7.9+1.21+neoforge] by fzzyhmstrs, lxly9 (art), unilock (ports)
 - [EMI Ores](https://modrinth.com/mod/sG4TqDb8) [1.2+1.21.1+neoforge] by Abbie
+- [FramedBlocksLite](https://modrinth.com/mod/IwYDx2dW) [10.3.2] by XFactHD, D3TONAT0R
+- [Handcrafted](https://modrinth.com/mod/pJmCFF0p) [4.0.3] by Alex Nijjar, Kekie6
 - [Incendium](https://modrinth.com/mod/ZVzW5oNS) [5.4.3] by Stardust Labs
 - [Incendium Biomes Only](https://modrinth.com/mod/gmUU3UdW) [3.1.0] by Naomi Roberts
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15.10.5+neoforge] by Snownee
@@ -49,12 +53,17 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [KubeJS](https://modrinth.com/mod/umyGl7zF) [2101.7.2-build.368] by latvian.dev
 - [LootJS](https://modrinth.com/mod/fJFETWDN) [1.21.1-3.7.0] by AlmostReliable
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [1.21.1-1.11.37.120] by Noobanidus
+- [Night Lights](https://modrinth.com/mod/s7pMb898) [1.3.0] by Joosh, samgj15, Flechazo
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1.21.1-v2.9.1] by Aizistral
 - [Nullscape](https://modrinth.com/mod/LPjGiSO4) [1.2.14] by Stardust Labs
+- [Pet Cemetery](https://modrinth.com/mod/M6tSWZ4N) [3.0.1] by Team Abnormals
 - [Ping Wheel](https://modrinth.com/mod/QQXAdCzh) [1.12.2] by Luken, RXJpaw
 - [Rechiseled](https://modrinth.com/mod/B0g2vT6l) [1.2.4] by SuperMartijn642
 - [Rechiseled: Chipped](https://modrinth.com/mod/ryYcxeeA) [1.3] by iwolfking
 - [Rechiseled: Cobblemon](https://modrinth.com/mod/Mqaobp5i) [1.0.0] by SuperMartijn642
+- [Ribbits](https://modrinth.com/mod/8YcE8y4T) [1.21.1-NeoForge-4.1.6] by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios
+- [Soulbound](https://modrinth.com/mod/MmUmcwom) [1.0.1] by iMoonDay
+- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1.4.18] by Fourmisain
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3.0.22] by Apollo
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2.5.8] by Stardust Labs
 - [VanillaBackport](https://modrinth.com/mod/6xwxDTgf) [1.1.7] by BlackGear
@@ -79,7 +88,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1.13.45] by Raguto & Yemagh
 - [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1.7.3-neoforge-1.3.0] by timinc aka Timothy Metcalfe
 - [Cobblemon EMI Compat](https://modrinth.com/mod/RlxO60z3) [1.1.0] by Rehv
-- [Cobblemon Export Pokemon to JSON/PokePaste](https://modrinth.com/mod/32XjTs79) [1.0.0]
+- [Cobblemon Export Pokémon to JSON/PokePaste](https://modrinth.com/mod/32XjTs79) [1.0.0]
 - [Cobblemon Fight or Flight](https://modrinth.com/mod/cTdIg5HZ) [0.10.7] by rufia, LyquidQrystal
 - [Cobblemon Pasture Loot NeoForged](https://modrinth.com/mod/TRV8eMkc) [0.1.0+1.21.1] by YoruTheWizard
 - [Cobblemon Raid Dens](https://modrinth.com/mod/GebWh45l) [0.11.0+1.21.1] by NecroSo1
@@ -125,6 +134,8 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13.0.8] by shedaniel
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ) [4.0.6] by ThatGravyBoat
 - [Balm](https://modrinth.com/mod/MBAkmtvl) [21.0.58] by BlayTheNinth
+- [Blueprint](https://modrinth.com/mod/VsM5EDoI) [8.1.0] by Team Abnormals
+- [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15.0.140] by shedaniel
 - [FTB Library](https://www.curseforge.com/projects/404465) [2101.1.31] by FTB Team
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0.7.6+1.21+neoforge] by fzzyhmstrs
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4.8.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
@@ -133,6 +144,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1.7.3] by Apollo
 - [Placebo](https://www.curseforge.com/projects/283644) [9.9.1] by Shadows_of_Fire
 - [Platform](https://modrinth.com/mod/i6fiqm5y) [1.3.3] by ItsBlackGear
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21.1.39] by Fuzs
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3.0.12] by ThatGravyBoat, Epic_Oreo
 - [Rhino](https://modrinth.com/mod/sk9knFPE) [2101.2.7-build.81] by latvian.dev, Mozilla
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1.1.8] by SuperMartijn642
@@ -193,8 +205,8 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - [AllTheMons x Mega Showdown](https://modrinth.com/project/odZZdRCE) [v3.5.0] by _*whistles* a lot of people_ (Data Pack, Resource Pack)
 
-  > [!WARNING]
-  > Must make sure that any addons added do not conflict/overlap with this pack
+> [!WARNING]
+> Must make sure that any addons added do not conflict/overlap with this pack
 
 - [Better Caps! [Cobblemon]](https://modrinth.com/project/mbndKTrW) [v1.2] by Lvnatic
 - [Cobblemon Triple Bakalutions](https://modrinth.com/project/mv8ODnvK) [1.1.1] by EefHere, Strawberr1Milkshake, regional_minty, Tortu (Data Pack, Resource Pack)
@@ -269,6 +281,40 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
   - Disabled forced chunk loading to maintain server performance
   - (Datapack) Players can interact with PCs and Healing Machines inside claims
 
+- KubeJS
+  - On first login, players are given 10 Premier Balls, 10 Steak and 1 White Pokédex
+  - Removed all default Create recipes
+  - Removed all Create items from loot tables
+  - Removed Chisel from Chipped (overlapped with Chisel from Rechiseled)
+  - Re-added Create stuff we actually want with modified recipes
+    - Cardboard armor and sword
+    - Andesite Casing
+    - Train Casing
+    - Metal Girder
+    - Train Track
+    - Train Station
+    - Train Observer
+    - Train Signal
+    - Train Schedule
+    - Train Controls
+    - Chocolate Glazed Berries
+    - Sweet Roll
+    - Honeyed Apple
+    - Desk Bell
+    - Andesite Door
+    - Train Door
+    - Train Trapdoor
+    - Framed Glass Door
+    - Framed Glass Trapdoor
+    - Copper Ladder
+    - Tiled/Framed/Horizontal Framed Glass & Glass Panes
+    - All Seats
+    - Rose Quartz
+    - Super Glue
+    - Rose Quartz Lamp
+    - Wrench
+    - Copper Nuggets
+
 - ServerCore
   - Target MSPT changed from 35 to 38
   - View distance:
@@ -300,22 +346,20 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [ ] Custom mods
 - [ ] Legacy gyms based on old Cobblemon server gym leaders and teams
 - [ ] PokéLatin alphabet blocks - _very easy to implement, just time-consuming_
-- [~] Create Mod, but only trains - _in progress, need to complete recipe changes_
+- [x] Create Mod, but only trains
 - [ ] Port textures from [COBBLEVERSE badges](https://modrinth.com/mod/cobbleverse-badges)
 - [ ] Rework those same textures to the same quality standard as current badges (maybe use some from [LumyMon](https://modrinth.com/project/QAX8WiBc)?)
-- [~] KubeJS modifications - rose quartz from BOP -> Create Rose Quartz - looping dye functions
+- [x] KubeJS modifications
 - [ ] Cobblemon Battle Extras configure
 - [ ] Economy - keystones, wishing stars, z-crystals
 - [ ] Fortnightly events
+- [ ] Configure Apotheosis Ender Lead (can pick up ANY Pokémon, thats op asf)
 
 ### Mods
 
-- #### [Cobblemon: Legendary Monuments](https://modrinth.com/project/m6RyHSbV) - needs Sinytra Connector (yuck!)
 - #### [Cobblemon: PlayerXP](https://modrinth.com/project/zlrbPCvu)
 - #### [Cobblemon additions](https://modrinth.com/project/W2pr9jyL) - port to NeoForge or Sinytra Connector
-- #### [Cobblemon Catch Rate Display](https://modrinth.com/project/vADO40xp) - _low priority_
 - #### [Cobblemon Pasture Loot](https://modrinth.com/project/XP2jcAo0) - port to NeoForge
-- #### [Cobbreeding](https://modrinth.com/project/ItmVb4zY)
 - #### [Default Options](https://modrinth.com/project/WEg59z5b)
 - #### [Drippy Loading Screen](https://modrinth.com/project/v3CYg2V9) - _low priority_
 - #### [FancyMenu](https://modrinth.com/project/Wq5SjeWM) - _low priority_, check [incompatibility list](https://docs.fancymenu.net/docs/incompatibility-list)
@@ -326,16 +370,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - #### [Pokemans Pack [Cobblemon]](https://modrinth.com/project/GFYCh249) - check compatibility
 - #### [TDmon](https://modrinth.com/project/b8PVSzJC) - might be out-of-date
 - #### [Unown Font](https://modrinth.com/project/aCJIsGLk) - port to NeoForge
+- #### [Uncramped Enchantment](https://modrinth.com/project/gdBhKBXC) - check compatibility with Apotheosis
 
 ### Datapacks
-
-- #### [AllTheMons x Mega Showdown - Radiants](https://modrinth.com/project/fjpDZGVW)
-
-  This pack is an addon for AllTheMons x Mega Showdown that adds new radiant Pokémon that are 5x rarer than regular shinies! While some of these new colorations will have a few references in them, others will just be new colors and with regular updates the entire Pokédex could eventually be radiant!
-
-  > [!IMPORTANT]
-  > Needs discussion before adding, due to radiants not being in any original games  
-  > **Update:** decided against it for now due to potentially annoying player-base, also textures kinda dog ngl
 
 - #### [Canon PC Wallpapers [Cobblemon]](https://modrinth.com/project/chI5vWhB)
 
@@ -343,40 +380,29 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - #### [CobbleMotion](https://modrinth.com/project/lIDAJAby)
 
-  Adds a few Animations to Cobblemon Models that lack them. Attack Animations are still in progress but a number of Pokemon have animated attacks. All models in the pack have an Idle or Walking animation with some having attack animations and special in battle animations.
+  Adds a few Animations to Cobblemon Models that lack them. Attack Animations are still in progress but a number of Pokémon have animated attacks. All models in the pack have an Idle or Walking animation with some having attack animations and special in battle animations.
 
 - #### [GlitchDex - Cobblemon](https://modrinth.com/project/Gdq5F7ud)
 
-  This Cobblemon Resource Pack adds some Pokemon that can't be obtained into Cobblemon!
+  This Cobblemon Resource Pack adds some Pokémon that can't be obtained into Cobblemon!
 
-  > [!IMPORTANT]
-  > Might need reworking, last update is 2 years old
-
-- #### [Lost Lore [Cobblemon]](https://modrinth.com/project/49cNEVjn)
-
-  In over 30 years of Pokémon as a franchise, they released many forms of media outside of the mainline games which includes many cool and unique forms and variants of beloved Pokémon - so why stop with forms from the mainline games? This addon aims to add many of them from various sources like the anime, movies, manga or side/spin-off games that are not considered _canon_.
-
-  > [!IMPORTANT]
-  > Needs discussion before adding, due to the non-canon nature
+> [!IMPORTANT]
+> Might need reworking, last update is 2 years old
+> ALSO check compatibility with ATMxMSD
 
 - #### [MelloMons](https://modrinth.com/project/HFE7B8bM)
 
   Currently this pack only adds in a remodel with a few animations for Mew. I do intend to add some cosmetic variants for mew later, but when that will be is undetermined.
 
-  > [!IMPORTANT]
-  > Might need reworking, last update is 1 year old
+> [!IMPORTANT]
+> Might need reworking, last update is 1 year old
 
 - #### [MysticMons](https://modrinth.com/project/TiFXQSAQ)
 
-  This pack includes models and animations for Pokemon currently not available in the base mod. Also enables Legendaries to spawn in the wild
+  This pack includes models and animations for Pokémon currently not available in the base mod. Also enables Legendaries to spawn in the wild
 
-  > [!IMPORTANT]
-  > Might need reworking, last update is 1 year old
-
-- #### [SpaceworldMons [Cobblemon]](https://modrinth.com/project/yJEn7EQ4)
-  SpaceworldMons adds over 70 Beta Pokémon from _an era long gone_ to your Cobblemon world!
-  > [!IMPORTANT]
-  > Needs discussion before adding, due to the potential non-canon nature
+> [!IMPORTANT]
+> Might need reworking, last update is 1 year old
 
 ### Broken stuff (name and shame!)
 
