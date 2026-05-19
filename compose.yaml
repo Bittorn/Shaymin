@@ -8,6 +8,8 @@ services:
       - 8119:25565
       - 8119:25565/udp
     environment:
+      UID: becke
+      GID: becke
       EULA: "TRUE"
       TYPE: NEOFORGE
       # CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
@@ -39,7 +41,6 @@ services:
         gamerule doInsomnia false
         gamerule projectilesCanBreakBlocks false
         gamerule commandBlockOutput false
-        chunky start minecraft:overworld 0 0 5000 5000
     deploy:
       resources:
         limits:
