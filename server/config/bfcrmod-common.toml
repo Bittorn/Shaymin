@@ -23,7 +23,7 @@
 	#  Enables or disables the filling in of timestamps
 	enableTimestamp = true
 	#  Enables or disables FTB essentials nickname integration
-	useFtbEssentials = false
+	useFtbEssentials = true
 	#  Enables or disables LuckPerms integration
 	useLuckPerms = true
 	#  Enables or disables markdown styling
