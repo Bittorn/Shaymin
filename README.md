@@ -193,6 +193,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - [Alternate Current](https://modrinth.com/project/r0v8vy1s) [neoforge-mc1.21-1.9.0] by Space Walker
 - [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
+- [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/projects/410811) [2101.1.9] by FTB Team
 - [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.150-neoforge] by lucko (for 1.21.4?)
 - [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
 - [Monsters in the Closet](https://modrinth.com/project/GMA8jFBD) [1.0.3+1.21-neo] by Minenash
