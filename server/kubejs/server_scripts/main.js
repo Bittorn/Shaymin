@@ -8,16 +8,13 @@ ServerEvents.recipes((event) => {
 
   // Remove chisel from Chipped
   event.remove({ output: "chipped:chisel" });
+
+  // Remove unconfigurable Ender Leads
+  // (can be used to capture all Pokemon and even Wardens)
+  event.remove({ output: "apothic_enchanting:flimsy_ender_lead"})
+  event.remove({ output: "apothic_enchanting:ender_lead"})
+  event.remove({ output: "apothic_enchanting:occult_ender_lead"})
 });
-
-// This doesn't work for some reason?
-// RecipeViewerEvents.removeEntriesCompletely("item", (event) => {
-//   // Remove all Create recipes
-//   event.remove({ mod: "create" });
-
-//   // Remove chisel from Chipped
-//   event.remove({ output: "chipped:chisel" });
-// });
 
 // Remove Create recipe categories
 RecipeViewerEvents.removeCategories((event) => {
@@ -373,14 +370,12 @@ ServerEvents.recipes((event) => {
 PlayerEvents.loggedIn((event) => {
   let player = event.player;
 
-  // First join check - give Pokeballs and food
+  // First join check - give Premier Balls and food
   if (!player.persistentData.hasJoinedBefore) {
     player.persistentData.hasJoinedBefore = true;
 
-    player.give(Item.of("cobblemon:premier_ball", 20));
+    player.give(Item.of("cobblemon:premier_ball", 10));
     player.give(Item.of("cobblemon:pokedex_white"));
     player.give(Item.of("minecraft:steak", 10));
-
-    player.tell(`Welcome to the server, ${player.getName()}!`);
   }
 });
