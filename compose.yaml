@@ -4,11 +4,12 @@ services:
     container_name: shaymin-local
     tty: true
     stdin_open: true
-    user: "1000:1000"
     ports:
       - 8119:25565
       - 8119:25565/udp
     environment:
+      UID: 1000
+      GID: 1000
       EULA: "TRUE"
       TYPE: NEOFORGE
       # CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
