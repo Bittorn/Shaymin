@@ -75,7 +75,6 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) [1.21.1-NeoForge-3.1.2] by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) [1.21.1-NeoForge-3.1.2] by YUNGNICKYOUNG, Tera
 - [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) [1.21.1-NeoForge-5.1.1] by YUNGNICKYOUNG
-- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) [1.21.1-NeoForge-3.1.5] by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) [1.21.1-NeoForge-4.1.2] by YUNGNICKYOUNG, Tera
 - [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) [1.21.1-NeoForge-5.1.3] by YUNGNICKYOUNG, Acarii
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) [1.21.1-NeoForge-4.1.1] by YUNGNICKYOUNG, Acarii
@@ -409,3 +408,6 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Repel NEOReforged](https://modrinth.com/mod/Sts4MWXj) [1.0.1] by Sniklz, deuli - Original Fabric mod creator
   > Does not work for Cobblemon 1.7, hasn't been updated in 7 months!  
   > **Update:** [Someone](https://github.com/AzulConspirator/Cobblemon-Repel-neoforge/) seems to have made it work, but will need to check if it's malware since it isn't available anywhere but GitHub.
+
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) [1.21.1-NeoForge-3.1.5] by YUNGNICKYOUNG, Acarii
+  > No disabling Create integration, so can't be used.
