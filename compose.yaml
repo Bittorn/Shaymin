@@ -41,6 +41,8 @@ services:
         gamerule doInsomnia false
         gamerule projectilesCanBreakBlocks false
         gamerule commandBlockOutput false
+        chunky border add minecraft:overworld square 0 0 5000 5000
+        chunky start minecraft:overworld square 0 0 5000 5000
     deploy:
       resources:
         limits:
