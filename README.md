@@ -192,7 +192,6 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 ### Server-side mods
 
 - [Alternate Current](https://modrinth.com/project/r0v8vy1s) [neoforge-mc1.21-1.9.0] by Space Walker
-- [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
 - [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.140-neoforge] by lucko
 - [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
 - [Monsters in the Closet](https://modrinth.com/project/GMA8jFBD) [1.0.3+1.21-neo] by Minenash
@@ -404,6 +403,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 > Might need reworking, last update is 1 year old
 
 ### Broken stuff (name and shame!)
+
+- [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
+  > Exception caught during firing event: Cannot invoke "com.rvt.bfcrmod.utils.INicknameProvider.getProviderName()" because "com.rvt.bfcrmod.BetterForgeChat.instance.nicknameProvider" is null
 
 - [Cobblemon Repel NEOReforged](https://modrinth.com/mod/Sts4MWXj) [1.0.1] by Sniklz, deuli - Original Fabric mod creator
   > Does not work for Cobblemon 1.7, hasn't been updated in 7 months!  
