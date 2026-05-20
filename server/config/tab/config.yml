@@ -1,30 +1,32 @@
 header-footer:
   enabled: true
-  header:
-  - <#FFFFFF>&m                                                </#FFFF00>
-  - '&3&lShaymin Cobblemon'
-  - '&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<'
-  - '&6This server is currenty in BETA'
-  - '&r&7Online players: &f%online%'
-  - ''
-  footer:
-  - '%animation:time%'
-  - '&2Ping: %ping%'
-  - '&7&l Used memory: %memory-used% MB / %memory-max% MB'
-  - <#FFFFFF>&m                                                </#FFFF00>
-  per-server:
-    server1:
+  designs:
+    server-server1:
+      display-condition: '%server%=server1'
       header:
       - an example of server with custom header
+      footer: []
+    default:
+      display-condition: '%world%!=disabledworld'
+      header:
+      - <#FFFFFF>&m                                                </#FFFF00>
+      - '&3&lShaymin Cobblemon'
+      - '&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<'
+      - '&6This server is currenty in BETA'
+      - '&r&7Online players: &f%online%'
+      - ''
+      footer:
+      - '%animation:time%'
+      - '&2Ping: %ping%'
+      - '&7&l Used memory: %memory-used% MB / %memory-max% MB'
+      - <#FFFFFF>&m                                                </#FFFF00>
 tablist-name-formatting:
   enabled: true
-  anti-override: true
   disable-condition: '%world%=disabledworld'
 scoreboard-teams:
   enabled: true
   enable-collision: true
   invisible-nametags: false
-  anti-override: true
   sorting-types:
   - GROUPS:owner,admin,mod,helper,builder,vip,default
   - PLACEHOLDER_A_TO_Z:%player%
@@ -63,8 +65,6 @@ scoreboard:
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
-  use-numbers: true
-  static-number: 0
   delay-on-join-milliseconds: 0
   scoreboards:
     scoreboard-1.20.3+:
@@ -127,9 +127,9 @@ layout:
       - '43|&8&m                       '
       groups:
         staff:
-          condition: permission:tab.staff
           slots:
           - 24-40
+          display-condition: permission:tab.staff
         players:
           slots:
           - 44-80
@@ -214,3 +214,8 @@ proxy-support:
   type: PLUGIN
   plugin:
     name: RedisBungee
+  channel-name-suffix: TAB
+config-version: 5
+components:
+  minimessage-support: true
+  disable-shadow-for-heads: true

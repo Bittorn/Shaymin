@@ -109,6 +109,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Utility & compatibility mods
 
+- [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) [21.1.8] by Gaz(Gaz492) (not configured yet)
 - [Chunky](https://modrinth.com/mod/fALzjamp) [1.4.23] by pop4959
 - [ChunkyBorder](https://modrinth.com/mod/s86X568j) [1.2.18] by pop4959
 - [CobblemonIntegrations](https://modrinth.com/mod/NPCfuUI4) [1.1.6] by Arcaryx, 2ScoopsPlz
@@ -162,7 +163,9 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Chloride](https://modrinth.com/mod/yD9qW65f) [1.7.7] by SrRapero720
 - [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2.8.22] by Akkiruk
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19.0.5] by Jaredlll08
+- [CraftPresence](https://modrinth.com/mod/DFqQfIBR) [2.7.1] by CDAGaming
 - [Crafting Tweaks](https://modrinth.com/mod/DMu0oBKf) [21.1.10] by BlayTheNinth
+- [Default Options](https://modrinth.com/mod/WEg59z5b) [21.1.6] by BlayTheNinth
 - [Distraction Free Recipes (EMI)](https://modrinth.com/mod/gbJLUhZP) [1.2.1] by Toni
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3.11.4] by juliand665 & LostLuma
 - [EMI Enchanting](https://modrinth.com/mod/wbWoo11W) [0.1.2+1.21+neoforge] by fzzyhmstrs
@@ -181,12 +184,14 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Sodium Extras](https://modrinth.com/mod/vqqx0QiE) [1.0.7] by toni
 - [Sodium Options Mod Compat](https://modrinth.com/mod/Yg1VT27P) [1.0.0] by Toni, DeeChael
 
+
 ### Client-side library mods
 
 - [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) [21.1.81] by Darkhax
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) [21.1.11] by Darkhax
 - [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1.0.10] by toni
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1.0.24] by Toni
+- [UniLib](https://modrinth.com/mod/nT86WUER) [1.2.1] by CDAGaming
 - [libIPN](https://modrinth.com/mod/onSQdWhM) [6.6.3] by Mirinimi
 
 ### Server-side mods
@@ -350,10 +355,14 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [ ] Port textures from [COBBLEVERSE badges](https://modrinth.com/mod/cobbleverse-badges)
 - [ ] Rework those same textures to the same quality standard as current badges (maybe use some from [LumyMon](https://modrinth.com/project/QAX8WiBc)?)
 - [x] KubeJS modifications
-- [ ] Cobblemon Battle Extras configure
+- [ ] Cobblemon Battle Extras configure - is this necessary?
 - [ ] Economy - keystones, wishing stars, z-crystals
 - [ ] Fortnightly events
-- [ ] Configure Apotheosis Ender Lead (can pick up ANY Pokémon, thats op asf)
+- [x] Configure Apotheosis Ender Lead (can pick up ANY Pokémon, thats op asf) - just disabled it
+- [ ] Switch to ZGC (fixes long memory issues)
+- [ ] Increase minimum Pokémon size - some are almost microscopic
+- [ ] Decrease maximum Pokémon size - can't ride some
+- [ ] Increase maximum stamina - 250% maybe?
 
 ### Mods
 

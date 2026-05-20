@@ -1,0 +1,32 @@
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"vips"},"description":"webeditor add group.default true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"vips"},"description":"webeditor add weight.1 true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"vips"},"description":"webeditor add prefix.1.VIP true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"vips"},"description":"webeditor add displayname.VIPs true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.pokeedit true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.pokeedit.* true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add cobblemon.command.querylearnset true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add displayname.Helper true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.worldedit true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.feed true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add prefix.5.HELPER true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.pokeeditother true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.pokeeditother.* true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.pokeheal true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add group.vips true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add weight.5 true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"helper"},"description":"webeditor add command.banlist true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"moderator"},"description":"webeditor add prefix.10.MOD true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"moderator"},"description":"webeditor add displayname.Moderator true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"moderator"},"description":"webeditor add weight.10 true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"moderator"},"description":"webeditor add group.helper true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"admin"},"description":"webeditor add displayname.Admin true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"admin"},"description":"webeditor add weight.50 true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"admin"},"description":"webeditor add * true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"GROUP","name":"admin"},"description":"webeditor add prefix.50.ADMIN true"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"TRACK","name":"default"},"description":"webeditor add default"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"TRACK","name":"default"},"description":"webeditor add vips"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"TRACK","name":"default"},"description":"webeditor add helper"}
+{"timestamp":1779274529,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"TRACK","name":"default"},"description":"webeditor add moderator"}
+{"timestamp":1779276769,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"USER","uniqueId":"1dd1e203-ef9b-485b-8075-9cc5f6859676","name":"Bittorn"},"description":"promote default"}
+{"timestamp":1779276771,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"USER","uniqueId":"1dd1e203-ef9b-485b-8075-9cc5f6859676","name":"Bittorn"},"description":"promote default"}
+{"timestamp":1779276775,"source":{"uniqueId":"00000000-0000-0000-0000-000000000000","name":"Console"},"target":{"type":"USER","uniqueId":"1dd1e203-ef9b-485b-8075-9cc5f6859676","name":"Bittorn"},"description":"promote default"}

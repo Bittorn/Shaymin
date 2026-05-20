@@ -26,3 +26,9 @@ server/config/plasmovoice/server/voice_mutes.json
 server/usercache.json
 *.code-workspace
 *.disabled
+/releases
+server/run.bat
+server/run.sh
+server/server.properties
+server/user_jvm_args.txt
+server/user_jvm_args.txt

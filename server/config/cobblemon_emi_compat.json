@@ -1,0 +1,7 @@
+{
+  "config_version": 1,
+  "enable_brewing_stand_recipe": true,
+  "merge_cobblemon_brewing_stand": false,
+  "enable_cooking_pot_recipe": true,
+  "enable_berry_mutation_recipe": true
+}

@@ -15,9 +15,7 @@ services:
       # CUSTOM_SERVER: "arclight-neoforge-1.21.1-1.0.2-SNAPSHOT-0769551.jar"
       VERSION: 1.21.1
       NEOFORGE_VERSION: 21.1.228
-      INIT_MEMORY: 4G
-      MIN_MEMORY: 8G
-      MAX_MEMORY: 16G
+      MEMORY: 16G
       USE_MEOWICE_FLAGS: true
       TZ: Australia/Melbourne
       STOP_SERVER_ANNOUNCE_DELAY: 30
@@ -31,8 +29,7 @@ services:
         §3Shaymin Cobblemon §d[2.0-alpha.3]§r
         §kpog§6 who cares lmao §7§kpog
       BROADCAST_CONSOLE_TO_OPS: false
-      MAX_PLAYERS: 20
-      MAX_WORLD_SIZE: 5000
+      MAX_PLAYERS: 100
       SPAWN_PROTECTION: 0
       RCON_CMDS_STARTUP: |
         gamerule mobGriefing false
@@ -46,7 +43,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: 6
+          cpus: 12
     volumes:
       - ./server:/data
     restart: unless-stopped

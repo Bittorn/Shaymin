@@ -1,0 +1,7 @@
+default:
+  groups:
+  - default
+  - vips
+  - helper
+  - moderator
+  - admin

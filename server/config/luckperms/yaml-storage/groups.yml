@@ -1,0 +1,46 @@
+default:
+  permissions: []
+vips:
+  permissions:
+  - displayname.VIPs
+  - weight.1
+  parents:
+  - default
+  prefixes:
+  - VIP:
+      priority: 1
+helper:
+  permissions:
+  - command.pokeedit.*
+  - command.pokeeditother.*
+  - cobblemon.command.querylearnset
+  - command.banlist
+  - command.feed
+  - command.pokeedit
+  - command.pokeeditother
+  - command.pokeheal
+  - command.worldedit
+  - displayname.Helper
+  - weight.5
+  parents:
+  - vips
+  prefixes:
+  - HELPER:
+      priority: 5
+moderator:
+  permissions:
+  - displayname.Moderator
+  - weight.10
+  parents:
+  - helper
+  prefixes:
+  - MOD:
+      priority: 10
+admin:
+  permissions:
+  - '*'
+  - displayname.Admin
+  - weight.50
+  prefixes:
+  - ADMIN:
+      priority: 50
