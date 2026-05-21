@@ -3,13 +3,13 @@
 	#    $prefix is replaced by the user's prefix or nothing if the user has no prefix
 	#    $suffix is replaced by the user's suffix or nothing if the user has no suffix
 	#    $name is replaced by the user's name, or nickname if they have one
-	playerNameFormat = "$prefix $name $suffix"
+	playerNameFormat = "$prefix $name"
 	#  Controls the chat message format
 	#    $time is replaced by the timestamp field or nothing if disabled
 	#    $name is replaced by the user's name, or nickname if they have one
 	#    colors can be uses in the formatting string. for a global message color see next section
 	#    $msg is replaced by the username's message (if you use it more then once it WILL break this mod)
-	chatMessageFormat = "$name : $msg"
+	chatMessageFormat = "$name: $msg"
 	#  Sets the global color of the chat messages
 	#   Choose one of the following:
 	#    AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE, BLACK, GOLD, GRAY, BLUE, GREEN,
@@ -35,9 +35,9 @@
 	#  Enables or disables nicknames in the tab list
 	tabListNicknames = true
 	#  Enables or disables the /colors command
-	enableColorsCommand = true
+	enableColorsCommand = false
 	#  Enables or disables the integrated whois command    (If autoIntegratedNicknames is true, this setting is ignored) 
-	enableWhoisCommand = true
+	enableWhoisCommand = false
 	#  Enables or disables the integrated nickname command   (If autoIntegratedNicknames is true, this setting is ignored) 
 	enableIntegratedNicknames = false
 	#  When true, enables the integrated nickname-related commands if FTB essentials is not present

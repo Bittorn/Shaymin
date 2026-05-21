@@ -5,6 +5,7 @@
     "centerZ": 0.0,
     "radiusX": 5000.0,
     "radiusZ": 5000.0,
-    "shape": "square"
+    "shape": "square",
+    "wrap": "none"
   }
 }
