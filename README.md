@@ -34,6 +34,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Apothic Attributes](https://www.curseforge.com/projects/898963) [2.9.1] by Shadows_of_Fire
 - [Apothic Enchanting](https://www.curseforge.com/projects/1063926) [1.5.2] by Shadows_of_Fire
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3.0.9+mc1.21] by squeek
+- [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) [13.2.1] by ochotonida
 - [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G) [21.1.0.13] by Adubbz, Forstride
 - [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1.1] by LunazStudios
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [9.0.5+1.21.1] by Illusive Soulworks
@@ -41,6 +42,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Create](https://modrinth.com/mod/LNytGWDc) [6.0.10] by simibubi
 - [Distant Horizons](https://modrinth.com/mod/uCdwusMi) [3.0.3-b]
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) [21.1.0] by Fuzs
+- [ElevatorMod](https://modrinth.com/mod/hi2dSXTu) [1.21.1-1.11.4] by VsnGamer
 - [EMI](https://modrinth.com/mod/fRiHVvU7) [1.1.24+1.21.1+neoforge] by Emi
 - [EMI Loot](https://modrinth.com/mod/qbbO7Jns) [0.7.9+1.21+neoforge] by fzzyhmstrs, lxly9 (art), unilock (ports)
 - [EMI Ores](https://modrinth.com/mod/sG4TqDb8) [1.2+1.21.1+neoforge] by Abbie
@@ -62,11 +64,12 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Rechiseled: Chipped](https://modrinth.com/mod/ryYcxeeA) [1.3] by iwolfking
 - [Rechiseled: Cobblemon](https://modrinth.com/mod/Mqaobp5i) [1.0.0] by SuperMartijn642
 - [Ribbits](https://modrinth.com/mod/8YcE8y4T) [1.21.1-NeoForge-4.1.6] by Joosh, YUNGNICKYOUNG, HellionGames, Refresh Studios
+- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [3.25.49] by P3pp3rF1y, Ridanisaurus
 - [Soulbound](https://modrinth.com/mod/MmUmcwom) [1.0.1] by iMoonDay
 - [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1.4.18] by Fourmisain
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) [3.0.22] by Apollo
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2.5.8] by Stardust Labs
-- [VanillaBackport](https://modrinth.com/mod/6xwxDTgf) [1.1.7] by BlackGear
+- [VanillaBackport](https://modrinth.com/mod/6xwxDTgf) [1.1.7.6] by BlackGear
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25.3.13] by xaero96
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1.40.16] by xaero96
 - [YUNG's Better Caves](https://modrinth.com/mod/Dfu00ggU) [1.21.1-NeoForge-3.1.4] by YUNGNICKYOUNG
@@ -83,6 +86,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - [Badge Box](https://modrinth.com/mod/8J7TR166) [1.1.1] by Linguardium and maste
 - [CobbleDollars](https://modrinth.com/mod/s7N7AsqL) [2.0.0+Beta-5.1+1.21.1] by Harmex
+- [Cobbled Armor Trims - Cobblemon](https://modrinth.com/mod/Ui0aohNY) [3.0] by kcblaze
 - [Cobblemon](https://modrinth.com/mod/MdwFAVRL) [1.7.3+1.21.1] by The Cobblemon Team
 - [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1.13.45] by Raguto & Yemagh
 - [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1.7.3-neoforge-1.3.0] by timinc aka Timothy Metcalfe
@@ -91,11 +95,12 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Cobblemon Fight or Flight](https://modrinth.com/mod/cTdIg5HZ) [0.10.7] by rufia, LyquidQrystal
 - [Cobblemon Pasture Loot NeoForged](https://modrinth.com/mod/TRV8eMkc) [0.1.0+1.21.1] by YoruTheWizard
 - [Cobblemon Raid Dens](https://modrinth.com/mod/GebWh45l) [0.11.0+1.21.1] by NecroSo1
+- [Cobblemon Repel NEOReforged](https://github.com/AzulConspirator/Cobblemon-Repel-neoforge) [2.0.1] by AzulConspirator, Sniklz, deuli - Original Fabric mod creator
 - [Cobblemon Smartphone](https://modrinth.com/mod/n2f1HbK8) [1.0.7] by RapidMesck, ZungGames
 - [Cobblemon Trials Edition](https://modrinth.com/mod/oH4pigcS) [1.3.1] by Lemenok
 - [Cobblemon Utility+](https://www.curseforge.com/projects/1265724) [1.7.3] by brendon3
 - [Cobblemon cafe](https://modrinth.com/mod/469QXqgC) [5.0.0] by rinkablu1
-- [Cobblemon: Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.2+1.7.3+1.21.1-hotfix] by Yajat Kaul
+- [Cobblemon:Mega Showdown](https://modrinth.com/mod/SszvX85I) [1.8.4+1.7.3+1.21.1] by Yajat Kaul
 - [CobblemonSizeVariation](https://modrinth.com/mod/bMdS1gMo) [1.4.0] by Cudzer
 - [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2.3.3] by gatekeep
 - [Cobbreeding](https://modrinth.com/mod/ItmVb4zY) [2.2.1]
@@ -109,15 +114,20 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ### Utility & compatibility mods
 
+- [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg) [0.1.12] by blodhgarm
+- [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied) [7.0.0-veryhotfix] by WereF0X
 - [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) [21.1.8] by Gaz(Gaz492) (not configured yet)
 - [Chunky](https://modrinth.com/mod/fALzjamp) [1.4.23] by pop4959
 - [ChunkyBorder](https://modrinth.com/mod/s86X568j) [1.2.18] by pop4959
 - [CobblemonIntegrations](https://modrinth.com/mod/NPCfuUI4) [1.1.6] by Arcaryx, 2ScoopsPlz
+- [CraftPresence](https://modrinth.com/mod/DFqQfIBR) [2.7.1] by CDAGaming
+- [Default Options](https://modrinth.com/mod/WEg59z5b) [21.1.6] by BlayTheNinth
 - [FTBChecker](https://modrinth.com/mod/ocEZ7tc1) [1.21.1-1.3.0] by SajmonOriginal
 - [FTB Chunks](https://www.curseforge.com/projects/314906) [2101.1.14] by FTB Team
 - [FTB Chunks x Xaero's Map Compat](https://www.curseforge.com/projects/1357724) [1.1.3] by Satherov
 - [FTB Ranks](https://www.curseforge.com/projects/314905) [2101.1.3] by FTB Team
 - [FTB Teams](https://www.curseforge.com/projects/404468) [2101.1.10] by FTB Team
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) [21.1.8] by FTB Team
 - [Global Packs](https://modrinth.com/mod/NRLPy2mk) [21.0.6] by JTK222
 - [Lootr & Cobblemon Compatibility](https://modrinth.com/mod/ywwXJDli) [1.21.1-0.0.0.3] by Noobanidus
 - [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) [21.1.1] by BlayTheNinth
@@ -130,12 +140,14 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 ### Library mods
 
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) [1.1.0-beta.53+1.21.1] by Blodhgarm, chyzman, Dr.Zeal
+- [Access Denied - API](https://www.curseforge.com/minecraft/mc-mods/access-denied-api) [1.0.1] by WereF0X
 - [Almanac](https://modrinth.com/mod/Gi02250Z) [1.5.2] by frikinjay
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13.0.8] by shedaniel
 - [Athena](https://modrinth.com/mod/b1ZV3DIJ) [4.0.6] by ThatGravyBoat
 - [Balm](https://modrinth.com/mod/MBAkmtvl) [21.0.58] by BlayTheNinth
 - [Blueprint](https://modrinth.com/mod/VsM5EDoI) [8.1.0] by Team Abnormals
 - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) [15.0.140] by shedaniel
+- [Curios API](https://modrinth.com/mod/vvuO3ImH) [9.5.1+1.21.1] by C4
 - [FTB Library](https://www.curseforge.com/projects/404465) [2101.1.31] by FTB Team
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0.7.6+1.21+neoforge] by fzzyhmstrs
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4.8.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
@@ -147,10 +159,12 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21.1.39] by Fuzs
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3.0.12] by ThatGravyBoat, Epic_Oreo
 - [Rhino](https://modrinth.com/mod/sk9knFPE) [2101.2.7-build.81] by latvian.dev, Mozilla
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1.4.41] by P3pp3rF1y
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1.1.8] by SuperMartijn642
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1.1.21] by SuperMartijn642
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4.1.0.8] by Adubbz
 - [Tim Core](https://modrinth.com/mod/lVP9aUaY) [1.7.3-neoforge-1.32.0] by timinc aka Timothy Metcalfe
+- [UniLib](https://modrinth.com/mod/nT86WUER) [1.2.1] by CDAGaming
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1.21.1-NeoForge-5.1.6] by YUNGNICKYOUNG
 - [cobblemore_lib](https://modrinth.com/mod/VYP2vmDS) [1.2.7] by Cobblemore Studio
 - [oωo](https://modrinth.com/mod/ccKDOlHs) [0.12.15.5-beta.1+1.21] by glisco, Blodhgarm, BasiqueEvangelist, Noaaan
@@ -202,6 +216,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.150-neoforge] by lucko (for 1.21.4?)
 - [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
 - [Monsters in the Closet](https://modrinth.com/project/GMA8jFBD) [1.0.3+1.21-neo] by Minenash
+- [PVP-Toggle](https://modrinth.com/project/2W3GozmX) [1.0.1-ALPHA] by BytelyPlay
 - [ServerCore](https://modrinth.com/project/4WWQxlQP) [1.5.10+1.21.1] by Wesley1808
 - [TAB](https://modrinth.com/project/gG7VFbG0) [5.5.0] by NEZNAMY, JT122406
 - [WorldEdit](https://modrinth.com/project/1u6JkXh5) [7.3.8] by me4502
@@ -215,11 +230,16 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - [Better Caps! [Cobblemon]](https://modrinth.com/project/mbndKTrW) [v1.2] by Lvnatic
 - [Cobblemon Triple Bakalutions](https://modrinth.com/project/mv8ODnvK) [1.1.1] by EefHere, Strawberr1Milkshake, regional_minty, Tortu (Data Pack, Resource Pack)
+- [Cobblemon - MC Swords for Honedge Line](https://modrinth.com/project/RpsrF20p) [2.0] by Halamajama, Trunky
+- [CobblemonMoreCosmetics](https://modrinth.com/project/M4vjzYDD) [1.1.6] by Archaeusdev
+- [CobbleMotion v1.5](https://modrinth.com/project/lIDAJAby) [1.5] by Lenkagari
+- [Colorable Forretress Shulker Boxes](https://modrinth.com/project/xhu2H9eW) [v3] by mozzarellamario
+- [Torterras O' Plenty](https://modrinth.com/project/Gt8Qpbs4) [1.0] by RWBlackbird
+- [Vivillon Pride Patterns [Cobblemon]](https://modrinth.com/project/2PwY98im) [1.0] by Cobbled Studios
 
 ### Client-side
 
 - [E19 - Cobblemon Minimap Icons](https://modrinth.com/project/Va3BanZa) by Emery319
-- [Eeveelutions Reimagined](https://modrinth.com/project/TC6XISro)
 
 ### Server-side
 
@@ -330,7 +350,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
     - Max simulation distance changed to 10
     - Min simulation distance changed to 6
 
-### Server config files
+### Server config files (incomplete)
 
 - cobbledollars/
 - cobblemon/
@@ -344,7 +364,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 ## To-Do
 
-- [ ] Setup server host - [UltraServers](https://ultraservers.com/)
+- [x] Setup server host - [UltraServers](https://ultraservers.com/)
 - [ ] Update to Cobblemon 1.8
 - [x] Client-only mods
 - [ ] Further research [COBBLEVERSE 1.7.31](https://modrinth.com/project/Jkb29YJU) to see what we can yoink
@@ -355,14 +375,14 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [ ] Port textures from [COBBLEVERSE badges](https://modrinth.com/mod/cobbleverse-badges)
 - [ ] Rework those same textures to the same quality standard as current badges (maybe use some from [LumyMon](https://modrinth.com/project/QAX8WiBc)?)
 - [x] KubeJS modifications
-- [ ] Cobblemon Battle Extras configure - is this necessary?
+- [x] Cobblemon Battle Extras configure - NOPE MAKE IT OPTIONAL
 - [ ] Economy - keystones, wishing stars, z-crystals
 - [ ] Fortnightly events
 - [x] Configure Apotheosis Ender Lead (can pick up ANY Pokémon, thats op asf) - just disabled it
-- [ ] Switch to ZGC (fixes long memory issues)
-- [ ] Increase minimum Pokémon size - some are almost microscopic
-- [ ] Decrease maximum Pokémon size - can't ride some
-- [ ] Increase maximum stamina - 250% maybe?
+- [x] Switch to ZGC (fixes long memory issues)
+- [x] Increase minimum Pokémon size - some are almost microscopic
+- [x] Decrease maximum Pokémon size - can't ride some
+- [ ] Increase maximum stamina - 150% maybe?
 
 ### Mods
 
