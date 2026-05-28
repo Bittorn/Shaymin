@@ -4,14 +4,23 @@
 
 Github repo for the Shaymin Minecraft server
 
-## About
-
-Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Since we do not use a server that supports the Bukkit API, we cannot use most commonly-used plugins for server management (CoreProtect, prism, etc.) When it becomes more stable, we will try to switch to [Arclight](https://github.com/IzzelAliz/Arclight), a server that implements the Bukkit API on top of standard modding platforms, such as NeoForge.
-
-> [!NOTE]
-> Some of our optimisation mods break Arclight when enabled (seems to be C2ME or another mod that changes chunk generation). We cannot switch until that has been resolved.
-
 ## Mods
+
+#### Still to organise
+
+- [Cut Through](https://modrinth.com/mod/Dk6su9JN) [21\.1\.0] by Fuzs
+- [JamLib](https://modrinth.com/mod/IYY9Siz8) [1\.3\.6\+1\.21\.1] by Jamalam
+- [More Overlays Updated](https://modrinth.com/mod/Thy5Pqut) [1\.24\.2] by feldim2425, RiDGo8
+- [Right Click Harvest](https://modrinth.com/mod/Cnejf5xM) [4\.6\.1\+1\.21\.1] by Jamalam
+
+- [Cobblemon: Parting Gifts](https://modrinth.com/mod/cobblemon-release-rewards)
+- [FTB Chunks SpawnFix](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-spawnfix)
+- [Command Aliases](https://modrinth.com/mod/command-aliases)
+- [Cobblemon: Ride Config](https://www.curseforge.com/minecraft/mc-mods/hatrix-ride-config)
+
+- [Cobblemon Paleontologist](https://modrinth.com/mod/tbBs6vYE) [0\.6\.0\-Beta\-Neo] by BaLLducked
+
+- VanillaTweaks stuff
 
 ### Optimisation mods
 
@@ -116,7 +125,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 
 - [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg) [0.1.12] by blodhgarm
 - [Access Denied](https://www.curseforge.com/minecraft/mc-mods/access-denied) [7.0.0-veryhotfix] by WereF0X
-- [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) [21.1.8] by Gaz(Gaz492) (not configured yet)
+- [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) [21.1.8] by Gaz(Gaz492)
 - [Chunky](https://modrinth.com/mod/fALzjamp) [1.4.23] by pop4959
 - [ChunkyBorder](https://modrinth.com/mod/s86X568j) [1.2.18] by pop4959
 - [CobblemonIntegrations](https://modrinth.com/mod/NPCfuUI4) [1.1.6] by Arcaryx, 2ScoopsPlz
@@ -179,6 +188,7 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19.0.5] by Jaredlll08
 - [CraftPresence](https://modrinth.com/mod/DFqQfIBR) [2.7.1] by CDAGaming
 - [Crafting Tweaks](https://modrinth.com/mod/DMu0oBKf) [21.1.10] by BlayTheNinth
+- [Cut Through](https://modrinth.com/mod/Dk6su9JN) [21.1.0] by Fuzs
 - [Default Options](https://modrinth.com/mod/WEg59z5b) [21.1.6] by BlayTheNinth
 - [Distraction Free Recipes (EMI)](https://modrinth.com/mod/gbJLUhZP) [1.2.1] by Toni
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3.11.4] by juliand665 & LostLuma
@@ -213,11 +223,12 @@ Shaymin currently runs on NeoForge 21.1.228, though this is less than ideal. Sin
 - [Alternate Current](https://modrinth.com/project/r0v8vy1s) [neoforge-mc1.21-1.9.0] by Space Walker
 - [Better Forge Chat Reborn (LuckPerms)](https://www.curseforge.com/projects/1152077) [1.21.1-4.0.1] by RealGamersParadise
 - [FTB Essentials (Forge & Fabric)](https://www.curseforge.com/projects/410811) [2101.1.9] by FTB Team
+- [Leaves Be Gone](https://modrinth.com/project/AVq17PqV) [v21.1.1-1.21.1-NeoForge] by Fuzs, SHXRKIE, LunaPixelStudios
 - [LuckPerms](https://modrinth.com/project/Vebnzrzj) [5.4.150-neoforge] by lucko (for 1.21.4?)
 - [MiniMOTD](https://modrinth.com/project/16vhQOQN) [2.1.3] by jpenilla
 - [Monsters in the Closet](https://modrinth.com/project/GMA8jFBD) [1.0.3+1.21-neo] by Minenash
 - [PVP-Toggle](https://modrinth.com/project/2W3GozmX) [1.0.1-ALPHA] by BytelyPlay
-- [ServerCore](https://modrinth.com/project/4WWQxlQP) [1.5.10+1.21.1] by Wesley1808
+- [ServerCore](https://modrinth.com/project/4WWQxlQP) [1.5.17+1.21.1] by Wesley1808
 - [TAB](https://modrinth.com/project/gG7VFbG0) [5.5.0] by NEZNAMY, JT122406
 - [WorldEdit](https://modrinth.com/project/1u6JkXh5) [7.3.8] by me4502
 
